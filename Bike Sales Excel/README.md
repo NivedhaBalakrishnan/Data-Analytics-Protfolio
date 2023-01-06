@@ -46,7 +46,10 @@ Dashboard 2:
 - Singles with no children bought more bikes compared to the Married customers with no children.
 - However, among the customers who have chidren, Married customers got more bikes compared to the single parents.
 
-## Important features to concentrate to Increase the bike purchase specified in increasing order
+## Important features to concentrate to Increase the bike purchase 
+
+Features specified in increasing order of its importance
+
 - Region
 - Age
 - Marital Status
