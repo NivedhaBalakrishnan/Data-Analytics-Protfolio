@@ -6,4 +6,5 @@ Hi, I am Nivedha. Currently I am pursuing Master of Science in Data Analytics at
 
 
 ## Table of Contents
-- Bike Sales Analysis using Excel
+- [Bike Sales Analysis using Excel] (https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/blob/main/Bike%20Sales%20Excel/Bike%20Sales.md)
+
