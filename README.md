@@ -6,3 +6,4 @@ Hi, I am Nivedha. Currently I am pursuing Master of Science in Data Analytics at
 
 
 ## Table of Contents
+- About
