@@ -27,9 +27,11 @@ Column features:
 Created pivot table, performed analysis, and created visualization and drawn useful insights from the data with respect to bike purchasing. Interactive dasboards are created to display useful insights from the data.
 
 Dashboard 1:
+
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/50318272/211112553-0b405b7b-cd6e-4565-bc47-713cc70f40e1.png">
 
 Dashboard 2:
+
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/50318272/211112583-1c3365e4-5548-4925-9179-b8fe4c6973dd.png">
 
 ## Useful Insights
