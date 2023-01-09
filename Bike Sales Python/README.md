@@ -46,7 +46,8 @@ A descriptive statistical analysis were made with the numerical columns and foll
 - People who bought the bike are more likely to have an income above $40,000.
 
 ### Cars
-<img width="365" alt="image" src="https://user-images.githubusercontent.com/50318272/211244096-c791fc92-bda2-4b03-84ee-dc0575c80944.png">
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/50318272/211244096-c791fc92-bda2-4b03-84ee-dc0575c80944.png"><img width="407" alt="image" src="https://user-images.githubusercontent.com/50318272/211244911-e1f52952-d60d-4953-846d-fccdbb15813d.png">
+
 
 - Most of the customers had 2 cars.
 - Customers with fewer number of cars tends to purchase the bike.
