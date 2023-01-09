@@ -33,10 +33,16 @@ A descriptive statistical analysis were made with the numerical columns and foll
 
 ### Age
 
-<img width="276" alt="image" src="https://user-images.githubusercontent.com/50318272/211235479-134764dd-bcd9-4cee-a046-9edca1cccccb.png">
-    <img width="364" alt="image" src="https://user-images.githubusercontent.com/50318272/211235234-a07c9315-34c8-4bf3-9acd-1bfe1999e330.png">
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/50318272/211235234-a07c9315-34c8-4bf3-9acd-1bfe1999e330.png">
 
 - Right Skewed distribution denotes that the most of the customers are young.
 - Majority of the customers (50%) fall between the age of 35 - 52.
 
-### 
+### Income
+
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/50318272/211235746-202531cc-a141-4a22-8351-f7545e8b02fa.png">
+
+- Binomial distribution
+- Most of the customer's incomes are around $30,000 and $60,000.
+
+
