@@ -56,3 +56,19 @@ A descriptive statistical analysis were made with the numerical columns and foll
 
 - People with no or one child scored a higher percentage in purchasing the bike compared to others.
 - The least ones are people with more children.
+
+### Marital Status
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/50318272/211247987-782374d1-59e9-4696-a9fd-25935215db03.png">
+
+- Though, the number of married customers are higher than the single customers, single customers are more interested in buying bikes.
+
+### Education
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/50318272/211248497-14788909-71f0-4393-8e72-6b2e53f6b666.png">
+
+- More than 50% of people who hava bachelor's or graduate degrees bought a bike.
+
+### Occupation
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/50318272/211248627-7cea9a2f-1976-4cd3-928a-10209ba1444d.png">
+
+- Customers who are professionals bought more bikes compared to others. 
+- Customers who are in Management and Manual work have the least percentage.
