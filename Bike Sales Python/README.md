@@ -32,17 +32,21 @@ Column features:
 A descriptive statistical analysis were made with the numerical columns and following insights are derived.
 
 ### Age
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/50318272/211241817-c69b32d5-9cbc-426c-b46f-a965372e8193.png">
 
-<img width="364" alt="image" src="https://user-images.githubusercontent.com/50318272/211235234-a07c9315-34c8-4bf3-9acd-1bfe1999e330.png">
-
-- Right Skewed distribution denotes that the most of the customers are young.
+- Right Skewed normal distribution denotes that the most of the customers are young.
 - Majority of the customers (50%) fall between the age of 35 - 52.
+- People below 50 are more likely to buy a bike.
 
 ### Income
-
-<img width="368" alt="image" src="https://user-images.githubusercontent.com/50318272/211235746-202531cc-a141-4a22-8351-f7545e8b02fa.png">
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/50318272/211241845-363effaf-f092-44d7-9499-fda0d1f16076.png">
 
 - Binomial distribution
 - Most of the customer's incomes are around $30,000 and $60,000.
+- People who bought the bike are more likely to have an income above $40,000.
 
+### Cars
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/50318272/211244096-c791fc92-bda2-4b03-84ee-dc0575c80944.png">
 
+- Most of the customers had 2 cars.
+- Customers with fewer number of cars tends to purchase the bike.
