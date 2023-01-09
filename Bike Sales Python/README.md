@@ -72,3 +72,9 @@ A descriptive statistical analysis were made with the numerical columns and foll
 
 - Customers who are professionals bought more bikes compared to others. 
 - Customers who are in Management and Manual work have the least percentage.
+
+### Region
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/50318272/211248901-2d8d4e54-e63a-4071-bc27-f863d940a8ec.png">
+
+- Though North Americans customers are higher, they have less percentage of purchase compared to the customers from other regions.
+
