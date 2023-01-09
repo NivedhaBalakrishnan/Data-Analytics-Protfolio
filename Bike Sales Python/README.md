@@ -48,6 +48,11 @@ A descriptive statistical analysis were made with the numerical columns and foll
 ### Cars
 <img width="311" alt="image" src="https://user-images.githubusercontent.com/50318272/211244999-ab7b9728-35c1-4621-b24b-b1d8f6751b1b.png"> <img width="407" alt="image" src="https://user-images.githubusercontent.com/50318272/211244911-e1f52952-d60d-4953-846d-fccdbb15813d.png">
 
-
 - Most of the customers had 2 cars.
 - Customers with fewer number of cars tends to purchase the bike.
+
+### Children
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/50318272/211245487-9b5647c6-4e0a-427b-b276-73a0cbc2f411.png"> <img width="409" alt="image" src="https://user-images.githubusercontent.com/50318272/211245755-f33d0585-6ac0-4640-b662-8339884638fd.png">
+
+- People with no or one child scored a higher percentage in purchasing the bike compared to others.
+- The least ones are people with more children.
