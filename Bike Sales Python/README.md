@@ -63,18 +63,51 @@ A descriptive statistical analysis were made with the numerical columns and foll
 - Though, the number of married customers are higher than the single customers, single customers are more interested in buying bikes.
 
 ### Education
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/50318272/211248497-14788909-71f0-4393-8e72-6b2e53f6b666.png">
+<img width="522" alt="image" src="https://user-images.githubusercontent.com/50318272/211249640-5a93dd8b-ff24-485c-a3c9-aef1db2cd78a.png">
 
 - More than 50% of people who hava bachelor's or graduate degrees bought a bike.
 
 ### Occupation
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/50318272/211248627-7cea9a2f-1976-4cd3-928a-10209ba1444d.png">
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/50318272/211250296-18668b0e-fdbb-4f23-8b0e-5e160150b4e9.png">
 
 - Customers who are professionals bought more bikes compared to others. 
 - Customers who are in Management and Manual work have the least percentage.
 
 ### Region
-<img width="521" alt="image" src="https://user-images.githubusercontent.com/50318272/211248901-2d8d4e54-e63a-4071-bc27-f863d940a8ec.png">
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/50318272/211250409-0775c5c4-ac75-446f-9851-ac33b62ce8a7.png">
 
 - Though North Americans customers are higher, they have less percentage of purchase compared to the customers from other regions.
 
+### Commute Distance
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/50318272/211250480-2122bff2-774b-4cac-ba59-ac3d70545d6f.png">
+
+- Customers who have less commute distance are more interested in purchasing the bike.
+
+## Interesting Insights
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/50318272/211251657-ba9c11ad-00ff-4027-a249-dd058faa3cbf.png">
+
+- More customers are interested to buy bikes between the ages of 30-50 regardless of their occupation.
+- Customers with occupation in Management are mostly more than 50 years of age, so they are less likely to purchase the bike.
+- Income of customers with clerical and manual occupation is less and that could be a factor affecting their decision in buying a bike.
+- On the other hand, customers with jobs as skilled manual and professionals have pretty good income comparatively and they are more likely to buy a bike.
+
+## Conclusion
+
+The descriptive analysis of the Bike Purchasing dataset has provided useful insight that could help the company to understand their customers and to build strategy accordingly to improve their sales. The features that have a significant impact on their sales are:
+- Commute Distance
+- Number of Children
+- Number of Cars
+- Age
+
+The features that have a moderate impact are:
+- Education
+- Occupation
+- Marital Status
+- Region
+
+The features that have no or less impact are:
+- Gender
+- Home Owners
+- Income
+
+These insights will help the company to make good decisions regarding their product and business strategy.
