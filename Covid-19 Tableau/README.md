@@ -32,6 +32,7 @@ Filter
 Filter
 - Year
 
+---
 - Rhode Island has the highest average cases per 100k where Arizona has highest average deaths per 100k.
 - Maine and Northern Mariana Islands have lowest average cases and deaths per 100k respectively.
 
