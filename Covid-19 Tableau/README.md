@@ -11,7 +11,7 @@ Filter
 - Year
 - Top 10 States
 - Bottom 10 States
-
+---
 - All the years combined California has highest Covid-19 cases over other states. This is followed by Texas and Florida.
 - American Samao has the least number of cases.
 
@@ -21,7 +21,7 @@ Filter
 - Year
 - Top 10 States
 - Bottom 10 States
-
+---
 - All the years combined California has highest Covid-19 deaths over other states. This is followed by Texas and Florida.
 - American Samao has the least number of deaths.
 
@@ -31,7 +31,6 @@ Filter
 
 Filter
 - Year
-
 ---
 - Rhode Island has the highest average cases per 100k where Arizona has highest average deaths per 100k.
 - Maine and Northern Mariana Islands have lowest average cases and deaths per 100k respectively.
@@ -44,5 +43,5 @@ Filter
 Filter
 - Year
 - State
-
+---
 - Displaying Top 5 Counties in each state with highest total cases and deaths.
