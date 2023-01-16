@@ -1,4 +1,4 @@
-## Dataset
+## Dataset (https://www.kaggle.com/datasets/kalilurrahman/new-york-times-covid19-dataset)
 
 1. US States COVID-19 cases and deaths - 58k rows
 2. US Counties COVID 19 cases and deaths - 2.5 Million rows
