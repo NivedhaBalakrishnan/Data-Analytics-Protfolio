@@ -1,0 +1,394 @@
+PLAYER_ID,PLAYER_NAME,SCHOOL,COUNTRY,BIRTHDATE,PLAYER_CURRENT_AGE,HEIGHT,WEIGHT,SEASON_EXP,POSITION,ROSTERSTATUS,TEAM_ID,PTS,REB,AST,PLAYER_NM,"2020 - 2021 CONTRACT TYPE","2020 - 2021 SALARY","2021 - 2022 CONTRACT TYPE","2021 - 2022 SALARY","2022 - 2023 CONTRACT TYPE","2022 - 2023 SALARY","2023 - 2024 CONTRACT TYPE","2023 - 2024 SALARY"
+203932,"Aaron Gordon",Arizona,USA,1995-09-16,26,80,235,6,Forward,Active,1610612753,14.6,6.6,4.3,"Aaron Gordon",Guaranteed,18136364,Guaranteed,16409091,NULL,NULL,NULL,NULL
+1628988,"Aaron Holiday",UCLA,USA,1996-09-30,25,72,185,2,Guard,Active,1610612754,6.9,1.2,1.7,"Aaron Holiday",Guaranteed,2345640,Guaranteed,3980551,"Qualifying Offer",5791702,NULL,NULL
+1627846,"Abdel Nader","Iowa State",Egypt,1993-09-25,28,77,225,3,Forward,Active,1610612756,6.7,2.6,0.8,"Abdel Nader",Guaranteed,1752950,NULL,NULL,NULL,NULL,NULL,NULL
+1629690,"Adam Mokoka","Mega Basket",France,1998-07-18,23,76,190,1,Guard,Active,1610612741,1.4,0.4,0.4,"Adam Mokoka",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+1629678,"Admiral Schofield",Tennessee,"United Kingdom",1997-03-30,24,77,241,1,Guard-Forward,Inactive,1610612764,3.0,1.4,0.5,"Admiral Schofield",Guaranteed,1517981,"Not With Team",300000,NULL,NULL,NULL,NULL
+1627773,"AJ Hammons",Purdue,USA,1992-08-27,29,84,260,1,Center,Inactive,1610612742,2.2,1.6,0.2,"AJ Hammons","Not With Team",350087,NULL,NULL,NULL,NULL,NULL,NULL
+201143,"Al Horford",Florida,"Dominican Republic",1986-06-03,35,81,240,13,Center-Forward,Active,1610612760,14.3,6.7,3.3,"Al Horford",Guaranteed,27500000,Guaranteed,27000000,Non-Guaranteed,26500000,NULL,NULL
+202692,"Alec Burks",Colorado,USA,1991-07-20,30,78,214,9,Guard,Active,1610612752,12.6,4.3,2.2,"Alec Burks",Guaranteed,6000000,NULL,NULL,NULL,NULL,NULL,NULL
+1629346,"Alen Smailagic",Beko,Serbia,2000-08-18,21,82,215,1,Forward,Active,1610612744,1.7,0.0,0.0,"Alen Smailagic",Guaranteed,1517981,Non-Guaranteed,1782621,Non-Guaranteed,1930681,NULL,NULL
+1627936,"Alex Caruso","Texas A&M",USA,1994-02-28,27,76,186,3,Guard,Active,1610612747,5.8,2.9,2.4,"Alex Caruso",Guaranteed,2750000,NULL,NULL,NULL,NULL,NULL,NULL
+203458,"Alex Len",Maryland,Ukraine,1993-06-16,28,84,250,7,Center,Active,1610612764,6.1,3.6,0.9,"Alex Len","Not With Team",3523372,NULL,NULL,NULL,NULL,NULL,NULL
+1628035,"Alfonzo McKinnie","Wisconsin-Green Bay",USA,1992-09-17,29,79,215,3,Forward,Active,1610612747,2.5,1.1,0.1,"Alfonzo McKinnie",Guaranteed,1762796,Non-Guaranteed,1910860,Non-Guaranteed,2165298,NULL,NULL
+1628993,"Alize Johnson","Missouri State",USA,1996-04-22,25,79,212,2,Forward,Active,1610612751,2.0,2.8,0.4,"Alize Johnson","Not With Team",110998,NULL,NULL,NULL,NULL,NULL,NULL
+1629599,"Amir Coffey",Minnesota,USA,1997-06-17,24,79,210,1,Guard-Forward,Active,1610612746,2.9,0.7,0.5,"Amir Coffey",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+203083,"Andre Drummond",Connecticut,USA,1993-08-10,28,82,279,8,Center,Active,1610612739,17.5,13.5,2.6,"Andre Drummond","Not With Team",28512226,NULL,NULL,NULL,NULL,NULL,NULL
+2738,"Andre Iguodala",Arizona,USA,1984-01-28,37,78,215,16,Guard-Forward,Active,1610612748,4.7,3.6,2.1,"Andre Iguodala",Guaranteed,15000000,"Team Option",15000000,NULL,NULL,NULL,NULL
+203094,"Andrew Nicholson","St. Bonaventure",Canada,1989-12-08,31,81,250,5,Forward,Inactive,1610612753,6.0,3.0,0.4,"Andrew Nicholson","Not With Team",2844430,"Not With Team",2844429,"Not With Team",2844429,"Not With Team",2844429
+203952,"Andrew Wiggins",Kansas,Canada,1995-02-23,26,79,197,6,Forward,Active,1610612744,17.7,4.6,2.1,"Andrew Wiggins",Guaranteed,29542010,Guaranteed,31579390,Guaranteed,33616770,NULL,NULL
+1629014,"Anfernee Simons","Edgewater HS (FL)",USA,1999-06-08,22,75,181,2,Guard,Active,1610612757,8.0,2.3,1.4,"Anfernee Simons",Guaranteed,2252040,Guaranteed,3938818,"Qualifying Offer",5758552,NULL,NULL
+203076,"Anthony Davis",Kentucky,USA,1993-03-11,28,82,253,8,Forward-Center,Active,1610612747,22.5,8.4,3.0,"Anthony Davis",Guaranteed,32742000,Guaranteed,35361360,Guaranteed,37980720,Guaranteed,40600080
+203382,"Aron Baynes","Washington State",Australia,1986-12-09,34,82,260,8,Center-Forward,Active,1610612761,6.1,5.5,0.9,"Aron Baynes",Guaranteed,7000000,Non-Guaranteed,7350000,NULL,NULL,NULL,NULL
+203085,"Austin Rivers",Duke,USA,1992-08-01,29,76,200,8,Guard,Active,1610612752,7.3,2.2,2.0,"Austin Rivers","Not With Team",3500000,NULL,NULL,NULL,NULL,NULL,NULL
+202340,"Avery Bradley",Texas,USA,1990-11-26,30,75,180,10,Guard,Active,1610612748,8.5,1.8,1.4,"Avery Bradley",Guaranteed,5635000,"Team Option",5916750,NULL,NULL,NULL,NULL
+1628389,"Bam Adebayo",Kentucky,USA,1997-07-18,24,81,255,3,Center-Forward,Active,1610612748,19.2,9.5,5.4,"Bam Adebayo",Guaranteed,5115492,Guaranteed,28103500,Guaranteed,30351780,Guaranteed,32600060
+203463,"Ben McLemore",Kansas,USA,1993-02-11,28,75,195,7,Guard,Active,1610612745,6.6,2.2,0.9,"Ben McLemore","Not With Team",2738124,NULL,NULL,NULL,NULL,NULL,NULL
+1627732,"Ben Simmons","Louisiana State",Australia,1996-07-20,25,83,240,3,Guard-Forward,Active,1610612755,16.1,8.0,7.6,"Ben Simmons",Guaranteed,30559200,Guaranteed,33003936,Guaranteed,35448672,Guaranteed,37893408
+202687,"Bismack Biyombo","Baloncesto Fuenlabrada",DRC,1992-08-28,29,80,255,9,Center,Active,1610612766,5.5,5.5,1.3,"Bismack Biyombo",Guaranteed,3500000,NULL,NULL,NULL,NULL,NULL,NULL
+201933,"Blake Griffin",Oklahoma,USA,1989-03-16,32,81,250,10,Forward,Active,1610612751,11.6,5.0,3.5,"Blake Griffin","Not With Team",33447438,"Not With Team",29764126,NULL,NULL,NULL,NULL
+1626246,"Boban Marjanovic","Crvena zvezda",Serbia,1988-08-15,33,88,290,5,Center,Active,1610612742,4.4,3.9,0.2,"Boban Marjanovic",Guaranteed,3500000,NULL,NULL,NULL,NULL,NULL,NULL
+1626171,"Bobby Portis",Arkansas,USA,1995-02-10,26,82,250,5,Forward,Active,1610612749,10.8,6.9,1.1,"Bobby Portis",Guaranteed,3623000,"Player Option",3804150,NULL,NULL,NULL,NULL
+203992,"Bogdan Bogdanovic",Fenerbahce,Serbia,1992-08-18,29,78,220,3,Guard,Active,1610612737,9.6,3.3,2.3,"Bogdan Bogdanovic",Guaranteed,18000000,Guaranteed,18000000,Guaranteed,18000000,"Player Option",18000000
+202711,"Bojan Bogdanovic",Fenerbahce,Croatia,1989-04-18,32,79,226,6,Forward,Active,1610612762,14.9,3.9,1.9,"Bojan Bogdanovic",Guaranteed,17850000,Guaranteed,18700000,Guaranteed,19550000,NULL,NULL
+202954,"Brad Wanamaker",Pittsburgh,USA,1989-07-25,32,75,210,2,Guard,Active,1610612744,4.7,1.7,2.5,"Brad Wanamaker",Guaranteed,2250000,"Qualifying Offer",2812500,NULL,NULL,NULL,NULL
+203078,"Bradley Beal",Florida,USA,1993-06-28,28,75,207,8,Guard,Active,1610612764,31.8,5.1,4.6,"Bradley Beal",Guaranteed,28751774,Guaranteed,33724200,"Player Option",36422136,NULL,NULL
+1629634,"Brandon Clarke",Gonzaga,Canada,1996-09-19,25,80,215,1,Forward,Active,1610612763,11.8,5.5,1.5,"Brandon Clarke",Guaranteed,2602920,Guaranteed,2726880,"Team Option",4343920,"Qualifying Offer",6259589
+1629164,"Brandon Goodwin","Florida Gulf Coast",USA,1995-10-02,26,72,180,2,Guard,Active,1610612737,3.9,1.0,1.6,"Brandon Goodwin",Guaranteed,1701593,"Qualifying Offer",2126991,NULL,NULL,NULL,NULL
+1627742,"Brandon Ingram",Duke,USA,1997-09-02,24,80,190,4,Forward,Active,1610612740,24.2,5.1,4.7,"Brandon Ingram",Guaranteed,27285000,Guaranteed,29467800,Guaranteed,31650600,Guaranteed,33833400
+1628968,"Brian Bowen II","Sydney Kings",USA,1998-10-02,23,78,190,1,Forward-Guard,Active,1610612754,1.5,0.5,0.0,"Brian Bowen II",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+201572,"Brook Lopez",Stanford,USA,1988-04-01,33,84,282,12,Center,Active,1610612749,11.4,5.0,0.7,"Brook Lopez",Guaranteed,12697675,Guaranteed,13302325,Guaranteed,13906976,NULL,NULL
+1628981,"Bruno Fernando",Maryland,Angola,1998-08-15,23,81,240,1,Forward-Center,Active,1610612737,1.5,3.0,0.4,"Bruno Fernando",Guaranteed,1517981,Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+1627854,"Bryn Forbes","Michigan State",USA,1993-07-23,28,74,205,4,Guard,Active,1610612749,9.5,1.2,0.6,"Bryn Forbes",Guaranteed,2337145,"Player Option",2454002,NULL,NULL,NULL,NULL
+1627741,"Buddy Hield",Oklahoma,Bahamas,1992-12-17,28,76,220,4,Guard,Active,1610612758,16.9,4.6,3.3,"Buddy Hield",Guaranteed,24701834,Guaranteed,22768890,Guaranteed,20835947,Guaranteed,18903003
+1628997,"Caleb Martin",Nevada-Reno,USA,1995-09-28,26,77,205,1,Forward,Active,1610612766,5.3,2.6,1.1,"Caleb Martin",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228821,NULL,NULL
+1629629,"Cam Reddish",Duke,USA,1999-09-01,22,80,218,1,Forward-Guard,Active,1610612737,11.2,4.0,1.3,"Cam Reddish",Guaranteed,4458000,Guaranteed,4670160,"Team Option",5954454,"Qualifying Offer",8109966
+1629661,"Cameron Johnson","North Carolina",USA,1996-03-03,25,80,210,1,Forward,Active,1610612756,10.3,3.3,1.4,"Cameron Johnson",Guaranteed,4235160,Guaranteed,4437000,"Team Option",5887899,"Qualifying Offer",8060534
+1626166,"Cameron Payne","Murray State",USA,1994-08-08,27,73,183,5,Guard,Active,1610612756,7.2,2.1,3.7,"Cameron Payne",Guaranteed,1977011,NULL,NULL,NULL,NULL,NULL,NULL
+1629244,"Cameron Reynolds",Tulane,USA,1995-02-07,26,79,225,1,Guard-Forward,Inactive,1610612749,5.0,1.6,0.7,"Cameron Reynolds","Not With Team",110998,NULL,NULL,NULL,NULL,NULL,NULL
+1627747,"Caris LeVert",Michigan,USA,1994-08-25,27,78,205,4,Guard,Active,1610612754,17.3,4.2,5.3,"Caris LeVert",Guaranteed,16203704,Guaranteed,17500000,Guaranteed,18796296,NULL,NULL
+2546,"Carmelo Anthony",Syracuse,USA,1984-05-29,37,79,238,17,Forward,Active,1610612757,14.0,3.3,1.7,"Carmelo Anthony",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629035,"Carsen Edwards",Purdue,USA,1998-03-12,23,71,200,1,Guard,Active,1610612738,5.1,1.1,0.6,"Carsen Edwards",Guaranteed,1517981,Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1626224,"Cedi Osman","Anadolu Efes",Turkey,1995-04-08,26,79,230,3,Forward,Active,1610612739,10.1,3.6,2.7,"Cedi Osman",Guaranteed,8840580,Guaranteed,8133334,Guaranteed,7426088,Non-Guaranteed,6718842
+1628990,"Chandler Hutchison","Boise State",USA,1996-04-26,25,78,210,2,Forward-Guard,Active,1610612741,1.9,2.9,0.6,"Chandler Hutchison",Guaranteed,2443440,Guaranteed,4019459,"Qualifying Offer",5820177,NULL,NULL
+1626184,"Chasson Randle",Stanford,USA,1993-02-05,28,74,185,3,Guard,Active,1610612753,5.7,2.1,2.7,"Chasson Randle",NULL,NULL,"Qualifying Offer",1789256,NULL,NULL,NULL,NULL
+1629002,"Chimezie Metu",USC,USA,1997-03-22,24,81,225,2,Forward-Center,Active,1610612758,3.4,2.1,0.5,"Chimezie Metu","Not With Team",50000,NULL,NULL,NULL,NULL,NULL,NULL
+1628449,"Chris Boucher",Oregon,"Saint Lucia",1993-01-11,28,81,200,3,Forward-Center,Active,1610612761,13.8,6.4,1.0,"Chris Boucher",Guaranteed,6500000,Non-Guaranteed,7020000,NULL,NULL,NULL,NULL
+1629185,"Chris Chiozza",Florida,USA,1995-11-21,25,71,175,2,Guard,Active,1610612751,3.5,1.1,2.4,"Chris Chiozza",NULL,NULL,"Qualifying Offer",1729217,NULL,NULL,NULL,NULL
+1629598,"Chris Clemons","Campbell University",USA,1997-07-23,24,69,180,1,Guard,Inactive,1610612745,4.9,0.9,0.8,"Chris Clemons","Not With Team",1517981,NULL,NULL,NULL,NULL,NULL,NULL
+101108,"Chris Paul","Wake Forest",USA,1985-05-06,36,72,175,15,Guard,Active,1610612756,15.7,4.7,8.8,"Chris Paul",Guaranteed,41358814,"Player Option",44211146,NULL,NULL,NULL,NULL
+1629735,"Chris Silva","South Carolina",Gabon,1996-09-19,25,80,234,1,Forward,Active,1610612748,2.7,2.3,0.5,"Chris Silva",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+1626174,"Christian Wood",UNLV,USA,1995-09-27,26,82,214,4,Forward,Active,1610612745,21.9,9.8,1.4,"Christian Wood",Guaranteed,13015874,Guaranteed,13666667,Guaranteed,14317459,NULL,NULL
+203468,"CJ McCollum",Lehigh,USA,1991-09-19,30,75,190,7,Guard,Active,1610612757,23.8,3.8,4.3,"CJ McCollum",Guaranteed,29354152,Guaranteed,30864198,Guaranteed,33333333,Guaranteed,35802469
+203991,"Clint Capela","Elan Chalon",Switzerland,1994-05-18,27,82,240,6,Center,Active,1610612737,14.3,14.2,0.9,"Clint Capela",Guaranteed,16000000,Guaranteed,17103448,Guaranteed,18206896,NULL,NULL
+1629632,"Coby White","North Carolina",USA,2000-02-16,21,77,195,1,Guard,Active,1610612741,15.2,4.6,4.7,"Coby White",Guaranteed,5572680,Guaranteed,5837760,"Team Option",7413955,"Qualifying Offer",9942114
+1628998,"Cody Martin",Nevada-Reno,USA,1995-09-28,26,77,205,1,Forward,Active,1610612766,3.8,2.4,1.2,"Cody Martin",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228821,NULL,NULL
+203469,"Cody Zeller",Indiana,USA,1992-10-05,29,83,240,7,Forward-Center,Active,1610612766,9.2,7.1,2.3,"Cody Zeller",Guaranteed,15415730,NULL,NULL,NULL,NULL,NULL,NULL
+202332,"Cole Aldrich",Kansas,USA,1988-10-31,32,83,253,8,Center,Inactive,1610612752,3.1,3.3,0.5,"Cole Aldrich","Not With Team",685340,NULL,NULL,NULL,NULL,NULL,NULL
+1629012,"Collin Sexton",Alabama,USA,1999-01-04,22,73,190,2,Guard,Active,1610612739,24.0,2.8,4.3,"Collin Sexton",Guaranteed,4991880,Guaranteed,6349671,"Qualifying Offer",8559357,NULL,NULL
+202709,"Cory Joseph",Texas,Canada,1991-08-20,30,75,200,9,Guard,Active,1610612758,6.7,2.2,2.4,"Cory Joseph",Guaranteed,12600000,Non-Guaranteed,12600000,NULL,NULL,NULL,NULL
+1626245,"Cristiano Felicio",Flamengo,Brazil,1992-07-07,29,83,270,5,Forward-Center,Active,1610612741,1.6,1.7,0.7,"Cristiano Felicio",Guaranteed,7529020,NULL,NULL,NULL,NULL,NULL,NULL
+1626156,"D'Angelo Russell","Ohio State",USA,1996-02-23,25,76,193,5,Guard,Active,1610612750,19.3,2.6,5.1,"D'Angelo Russell",Guaranteed,28649250,Guaranteed,30013500,Guaranteed,31377750,NULL,NULL
+1626177,"Dakari Johnson",Kentucky,USA,1995-09-22,26,84,255,0,Center,Inactive,1610612760,1.8,1.1,0.3,"Dakari Johnson","Not With Team",459414,NULL,NULL,NULL,NULL,NULL,NULL
+203081,"Damian Lillard","Weber State",USA,1990-07-15,31,74,195,8,Guard,Active,1610612757,30.1,4.4,7.7,"Damian Lillard",Guaranteed,31626953,Guaranteed,39344900,Guaranteed,42492492,Guaranteed,45640084
+1627814,"Damion Lee",Louisville,USA,1992-10-21,29,77,210,3,Guard-Forward,Active,1610612744,6.7,3.3,1.4,"Damion Lee",Guaranteed,1762796,Non-Guaranteed,1910860,NULL,NULL,NULL,NULL
+1628422,"Damyean Dotson",Houston,USA,1994-05-06,27,77,210,3,Guard,Active,1610612739,6.7,1.9,2.2,"Damyean Dotson",Guaranteed,2000000,Non-Guaranteed,2000000,NULL,NULL,NULL,NULL
+1629655,"Daniel Gafford",Arkansas,USA,1998-10-01,23,82,234,1,Forward-Center,Active,1610612741,4.8,3.3,0.6,"Daniel Gafford",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1628464,"Daniel Theis","Brose Bamberg",Germany,1992-04-04,29,80,245,3,Forward-Center,Active,1610612738,9.4,5.3,1.6,"Daniel Theis",Guaranteed,5000000,NULL,NULL,NULL,NULL,NULL,NULL
+201568,"Danilo Gallinari","Olimpia Milano",Italy,1988-08-08,33,82,233,11,Forward,Active,1610612737,12.8,3.9,1.5,"Danilo Gallinari",Guaranteed,19500000,Guaranteed,20475000,Non-Guaranteed,21450000,NULL,NULL
+201980,"Danny Green","North Carolina",USA,1987-06-22,34,78,215,11,Guard,Active,1610612755,9.2,3.6,1.7,"Danny Green",Guaranteed,15365853,NULL,NULL,NULL,NULL,NULL,NULL
+203957,"Dante Exum","Australian Institute of Sport",Australia,1995-07-13,26,77,214,5,Guard,Active,1610612745,3.8,2.8,2.2,"Dante Exum",Guaranteed,9600000,NULL,NULL,NULL,NULL,NULL,NULL
+1629610,"DaQuan Jeffries",Tulsa,USA,1997-08-30,24,77,230,1,Guard-Forward,Active,1610612758,3.9,1.6,0.3,"DaQuan Jeffries",Guaranteed,1445697,"Team Option",1701593,"Qualifying Offer",2126991,NULL,NULL
+203967,"Dario Saric","Anadolu Efes",Croatia,1994-04-08,27,82,225,4,Forward-Center,Active,1610612756,10.3,4.2,1.3,"Dario Saric",Guaranteed,9250000,Guaranteed,8510000,Guaranteed,9240000,NULL,NULL
+1629647,"Darius Bazley","Princeton HS (OH)",USA,2000-06-12,21,80,208,1,Forward-Guard,Active,1610612760,11.9,7.5,1.5,"Darius Bazley",Guaranteed,2399160,Guaranteed,2513040,"Team Option",4264629,"Qualifying Offer",6205035
+1629636,"Darius Garland",Vanderbilt,USA,2000-01-26,21,73,192,1,Guard,Active,1610612739,16.4,2.2,5.8,"Darius Garland",Guaranteed,6720720,Guaranteed,7040880,"Team Option",8920795,"Qualifying Offer",11828974
+203121,"Darius Miller",Kentucky,USA,1990-03-21,31,78,225,5,Forward,Active,1610612760,3.4,1.4,1.1,"Darius Miller",Guaranteed,7000000,NULL,NULL,NULL,NULL,NULL,NULL
+1628021,"David Nwaba","Cal Poly-Obispo",USA,1993-01-14,28,77,219,4,Guard-Forward,Active,1610612745,9.2,3.9,1.0,"David Nwaba",Guaranteed,1824003,NULL,NULL,NULL,NULL,NULL,NULL
+202722,"Davis Bertans",Baskonia,Latvia,1992-11-12,28,82,225,4,Forward,Active,1610612764,10.8,2.9,0.9,"Davis Bertans",Guaranteed,15000000,Guaranteed,16000000,Guaranteed,16000000,Guaranteed,17000000
+1628368,"De'Aaron Fox",Kentucky,USA,1997-12-20,23,75,185,3,Guard,Active,1610612758,23.8,3.4,7.4,"De'Aaron Fox",Guaranteed,8099627,Guaranteed,28103500,Guaranteed,30351780,Guaranteed,32600060
+1629631,"De'Andre Hunter",Virginia,USA,1997-12-02,23,80,225,1,Forward-Guard,Active,1610612737,16.7,5.2,2.2,"De'Andre Hunter",Guaranteed,7422000,Guaranteed,7775400,"Team Option",9835881,"Qualifying Offer",12973527
+1629001,"De'Anthony Melton","Southern California",USA,1998-05-28,23,74,200,2,Guard,Active,1610612763,9.6,3.4,2.9,"De'Anthony Melton",Guaranteed,9571712,Guaranteed,8805976,Guaranteed,8250000,Non-Guaranteed,8000000
+1629731,"Dean Wade","Kansas State",USA,1996-11-20,24,81,228,1,Forward-Center,Active,1610612739,4.1,2.3,0.8,"Dean Wade",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1629028,"Deandre Ayton",Arizona,Bahamas,1998-07-23,23,83,250,2,Center,Active,1610612756,14.5,11.0,1.6,"Deandre Ayton",Guaranteed,10018200,Guaranteed,12632950,"Qualifying Offer",16422835,NULL,NULL
+201599,"DeAndre Jordan","Texas A&M",USA,1988-07-21,33,83,265,12,Center,Active,1610612751,7.6,7.5,1.7,"DeAndre Jordan",Guaranteed,10375678,Guaranteed,9881598,Guaranteed,9821842,NULL,NULL
+1627761,"DeAndre' Bembry","St. Joseph's (PA)",USA,1994-07-04,27,77,210,4,Guard-Forward,Active,1610612761,4.6,2.3,1.9,"DeAndre' Bembry",Guaranteed,1737145,Non-Guaranteed,1977011,NULL,NULL,NULL,NULL
+1627749,"Dejounte Murray",Washington,USA,1996-09-19,25,76,180,3,Guard,Active,1610612759,15.6,7.0,5.1,"Dejounte Murray",Guaranteed,14286000,Guaranteed,15428880,Guaranteed,16571120,Guaranteed,17714000
+1626153,"Delon Wright",Utah,USA,1992-04-26,29,77,185,5,Guard,Active,1610612765,10.5,4.6,5.1,"Delon Wright",Guaranteed,9000000,Guaranteed,8526316,NULL,NULL,NULL,NULL
+201942,"DeMar DeRozan","Southern California",USA,1989-08-07,32,78,220,11,Guard-Forward,Active,1610612759,20.6,4.5,7.4,"DeMar DeRozan",Guaranteed,27739975,NULL,NULL,NULL,NULL,NULL,NULL
+201960,"DeMarre Carroll",Missouri,USA,1986-07-27,35,78,215,11,Forward,Inactive,1610612745,8.9,4.2,1.3,"DeMarre Carroll","Not With Team",6119676,"Not With Team",1242340,NULL,NULL,NULL,NULL
+203471,"Dennis Schroder",Braunschweig,Germany,1993-09-15,28,75,172,7,Guard,Active,1610612747,15.0,3.5,4.7,"Dennis Schroder",Guaranteed,16000000,NULL,NULL,NULL,NULL,NULL,NULL
+1627756,"Denzel Valentine","Michigan State",USA,1993-11-16,27,76,220,3,Guard,Active,1610612741,7.4,3.9,1.7,"Denzel Valentine",Guaranteed,4642800,NULL,NULL,NULL,NULL,NULL,NULL
+202324,"Derrick Favors","Georgia Tech",USA,1991-07-15,30,81,265,10,Forward,Active,1610612762,5.9,5.3,0.9,"Derrick Favors",Guaranteed,9258000,Guaranteed,9720900,"Player Option",10183800,NULL,NULL
+201565,"Derrick Rose",Memphis,USA,1988-10-04,33,74,200,11,Guard,Active,1610612752,13.5,2.2,4.5,"Derrick Rose",Guaranteed,7682926,NULL,NULL,NULL,NULL,NULL,NULL
+1628401,"Derrick White",Colorado,USA,1994-07-02,27,76,190,3,Guard,Active,1610612759,12.8,2.4,3.4,"Derrick White",Guaranteed,3516284,Guaranteed,15678571,Guaranteed,16892857,Guaranteed,18107143
+1626164,"Devin Booker",Kentucky,USA,1996-10-30,25,77,206,5,Guard,Active,1610612756,25.1,4.0,4.6,"Devin Booker",Guaranteed,29467800,Guaranteed,31650600,Guaranteed,33833400,Guaranteed,36016200
+1628984,"Devonte' Graham",Kansas,USA,1995-02-22,26,73,195,2,Guard,Active,1610612766,13.1,2.7,5.2,"Devonte' Graham",Guaranteed,1663861,"Qualifying Offer",4736102,NULL,NULL,NULL,NULL
+203473,"Dewayne Dedmon",USC,USA,1989-08-12,32,84,245,7,Center,Inactive,1610612737,6.4,6.0,0.7,"Dewayne Dedmon","Not With Team",2866667,"Not With Team",2866667,"Not With Team",2866667,"Not With Team",2866666
+1628415,"Dillon Brooks",Oregon,Canada,1996-01-22,25,79,225,3,Guard-Forward,Active,1610612763,15.8,3.0,2.6,"Dillon Brooks",Guaranteed,11400000,Guaranteed,12200000,Guaranteed,11400000,NULL,NULL
+203079,"Dion Waiters",Syracuse,USA,1991-12-10,29,75,210,8,Guard,Inactive,1610612747,13.1,2.6,2.8,"Dion Waiters","Not With Team",12650000,NULL,NULL,NULL,NULL,NULL,NULL
+1627734,"Domantas Sabonis",Gonzaga,Lithuania,1996-05-03,25,83,240,4,Forward-Center,Active,1610612754,20.2,11.2,6.2,"Domantas Sabonis",Guaranteed,19800000,Guaranteed,19800000,Guaranteed,19800000,Guaranteed,20700000
+1628378,"Donovan Mitchell",Louisville,USA,1996-09-07,25,73,215,3,Guard,Active,1610612762,25.4,4.6,5.5,"Donovan Mitchell",Guaranteed,5195501,Guaranteed,28103500,Guaranteed,30351780,Guaranteed,32600060
+203926,"Doug McDermott",Creighton,USA,1992-01-03,29,79,225,6,Forward,Active,1610612754,13.6,3.9,1.4,"Doug McDermott",Guaranteed,7333333,NULL,NULL,NULL,NULL,NULL,NULL
+203110,"Draymond Green","Michigan State",USA,1990-03-04,31,78,230,8,Forward,Active,1610612744,6.1,6.6,8.4,"Draymond Green",Guaranteed,22246956,Guaranteed,24026712,Guaranteed,25806468,"Player Option",27586224
+1629234,"Drew Eubanks","Oregon State",USA,1997-02-01,24,81,245,2,Forward-Center,Active,1610612759,4.6,3.2,0.9,"Drew Eubanks",Guaranteed,1620564,Non-Guaranteed,1762796,Non-Guaranteed,1910860,NULL,NULL
+1629130,"Duncan Robinson",Michigan,USA,1994-04-22,27,79,215,2,Forward,Active,1610612748,12.5,3.8,1.7,"Duncan Robinson",Guaranteed,1663861,"Qualifying Offer",4736102,NULL,NULL,NULL,NULL
+1628407,"Dwayne Bacon","Florida State",USA,1995-08-30,26,78,221,3,Guard-Forward,Active,1610612753,9.9,2.8,1.1,"Dwayne Bacon",Guaranteed,1678854,Non-Guaranteed,1824003,NULL,NULL,NULL,NULL
+2730,"Dwight Howard","SW Atlanta Christian Academy (GA)",USA,1985-12-08,35,82,265,16,Center-Forward,Active,1610612755,6.6,8.2,0.8,"Dwight Howard",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+203939,"Dwight Powell",Stanford,Canada,1991-07-20,30,82,240,6,Forward-Center,Active,1610612742,4.4,3.3,0.8,"Dwight Powell",Guaranteed,11080125,Guaranteed,11080125,Guaranteed,11080125,NULL,NULL
+1629685,"Dylan Windler",Belmont,USA,1996-09-22,25,78,196,0,Guard-Forward,Active,1610612739,5.4,3.6,1.1,"Dylan Windler",Guaranteed,2137440,Guaranteed,2239200,"Team Option",4037278,"Qualifying Offer",5959022
+1629058,"Dzanan Musa"," ","Bosnia and Herzegovina",1999-05-08,22,81,217,2,Guard-Forward,Inactive,1610612751,4.3,1.9,0.9,"Dzanan Musa","Not With Team",2002800,NULL,NULL,NULL,NULL,NULL,NULL
+202734,"E'Twaun Moore",Purdue,USA,1989-02-25,32,75,191,9,Guard,Active,1610612756,4.3,1.8,1.5,"E'Twaun Moore",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+202334,"Ed Davis","North Carolina",USA,1989-06-05,32,81,218,10,Center-Forward,Active,1610612750,2.3,5.1,1.0,"Ed Davis",Guaranteed,5005350,NULL,NULL,NULL,NULL,NULL,NULL
+1628410,"Edmond Sumner",Xavier,USA,1995-12-31,25,76,196,3,Guard,Active,1610612754,4.9,1.4,0.4,"Edmond Sumner",Guaranteed,2160000,"Team Option",2320000,NULL,NULL,NULL,NULL
+203901,"Elfrid Payton",Louisana-Lafayette,USA,1994-02-22,27,75,195,6,Guard,Active,1610612752,12.4,3.9,3.7,"Elfrid Payton",Guaranteed,4767000,NULL,NULL,NULL,NULL,NULL,NULL
+202683,"Enes Kanter",Fenerbahce,Turkey,1992-05-20,29,82,250,9,Center,Active,1610612757,12.1,11.6,1.3,"Enes Kanter",Guaranteed,5005350,NULL,NULL,NULL,NULL,NULL,NULL
+202339,"Eric Bledsoe",Kentucky,USA,1989-12-09,31,73,214,10,Guard,Active,1610612740,11.3,3.4,3.7,"Eric Bledsoe",Guaranteed,16875000,Guaranteed,18125000,Non-Guaranteed,19375000,NULL,NULL
+201569,"Eric Gordon",Indiana,USA,1988-12-25,32,75,215,12,Guard,Active,1610612745,17.8,2.1,2.6,"Eric Gordon",Guaranteed,16869276,Guaranteed,18218818,Guaranteed,19568360,Non-Guaranteed,20917902
+1629672,"Eric Paschall",Villanova,USA,1996-11-04,24,78,255,1,Forward,Active,1610612744,9.5,3.2,1.3,"Eric Paschall",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+101141,"Ersan Ilyasova","FC Barcelona",Turkey,1987-05-15,34,81,235,12,Forward,Active,1610612762,0.0,0.0,1.0,"Ersan Ilyasova",Guaranteed,754783,NULL,NULL,NULL,NULL,NULL,NULL
+203095,"Evan Fournier","Poitiers Basket 86",France,1992-10-29,29,79,205,8,Guard-Forward,Active,1610612753,19.6,3.0,3.7,"Evan Fournier",Guaranteed,17450000,NULL,NULL,NULL,NULL,NULL,NULL
+1628402,"Frank Jackson",Duke,USA,1998-05-04,23,75,205,2,Guard,Active,1610612765,5.2,1.4,0.8,"Frank Jackson","Not With Team",250000,"Qualifying Offer",1789256,NULL,NULL,NULL,NULL
+1626163,"Frank Kaminsky",Wisconsin,USA,1993-04-04,28,84,240,5,Forward-Center,Active,1610612756,6.6,3.7,1.6,"Frank Kaminsky",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1628373,"Frank Ntilikina","Strasbourg IG",France,1998-07-28,23,76,200,3,Guard,Active,1610612752,4.3,1.2,0.8,"Frank Ntilikina",Guaranteed,6176578,"Qualifying Offer",8326027,NULL,NULL,NULL,NULL
+1627832,"Fred VanVleet","Wichita State",USA,1994-02-25,27,73,197,4,Guard,Active,1610612761,20.1,4.4,6.5,"Fred VanVleet",Guaranteed,21250000,Guaranteed,19675926,Guaranteed,21250000,"Player Option",22824074
+1627788,"Furkan Korkmaz","Anadolu Efes",Turkey,1997-07-24,24,79,202,3,Guard-Forward,Active,1610612755,9.2,2.2,1.1,"Furkan Korkmaz",Guaranteed,1762796,NULL,NULL,NULL,NULL,NULL,NULL
+1629216,"Gabe Vincent","California-Santa Barbara",USA,1996-06-14,25,75,200,1,Guard,Active,1610612748,5.9,1.2,1.3,"Gabe Vincent",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+202066,"Garrett Temple","Louisiana State",USA,1986-05-08,35,77,195,10,Guard-Forward,Active,1610612741,8.5,3.1,2.0,"Garrett Temple",Guaranteed,4767000,NULL,NULL,NULL,NULL,NULL,NULL
+1629726,"Garrison Mathews",Lipscomb,USA,1996-10-24,25,77,215,1,Guard,Active,1610612764,6.7,1.7,0.4,"Garrison Mathews",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+1629109,"Gary Clark",Cincinnati,USA,1994-11-16,26,78,225,2,Forward,Active,1610612753,3.4,3.2,0.9,"Gary Clark",Guaranteed,2000000,Non-Guaranteed,2100000,NULL,NULL,NULL,NULL
+203914,"Gary Harris","Michigan State",USA,1994-09-14,27,76,210,6,Guard,Active,1610612743,9.7,2.5,1.7,"Gary Harris",Guaranteed,19160714,Guaranteed,20482143,NULL,NULL,NULL,NULL
+201588,"George Hill","Indiana-Purdue Indianapolis",USA,1986-05-04,35,76,188,12,Guard,Active,1610612760,11.8,2.1,3.1,"George Hill",Guaranteed,9590602,Non-Guaranteed,10047297,NULL,NULL,NULL,NULL
+1627777,"Georges Niang","Iowa State",USA,1993-06-17,28,79,230,4,Forward,Active,1610612762,5.0,2.2,0.7,"Georges Niang",Guaranteed,1783557,NULL,NULL,NULL,NULL,NULL,NULL
+203507,"Giannis Antetokounmpo",Filathlitikos,Greece,1994-12-06,26,83,242,7,Forward,Active,1610612749,29.0,11.7,6.4,"Giannis Antetokounmpo",Guaranteed,27528088,Guaranteed,39344900,Guaranteed,42492492,Guaranteed,45640676
+1629048,"Goga Bitadze","Mega Basket",Georgia,1999-07-20,22,83,250,1,Center-Forward,Active,1610612754,3.8,2.2,0.3,"Goga Bitadze",Guaranteed,2957520,Guaranteed,3098400,"Team Option",4765339,"Qualifying Offer",6762016
+201609,"Goran Dragic","Union Olimpija",Slovenia,1986-05-06,35,75,190,12,Guard,Active,1610612748,13.9,3.3,4.9,"Goran Dragic",Guaranteed,18000000,"Team Option",19440000,NULL,NULL,NULL,NULL
+202330,"Gordon Hayward",Butler,USA,1990-03-23,31,79,225,10,Forward,Active,1610612766,20.4,5.6,4.2,"Gordon Hayward",Guaranteed,28500000,Guaranteed,29925000,Guaranteed,30075000,Guaranteed,31500000
+203476,"Gorgui Dieng",Louisville,Senegal,1990-01-18,31,82,252,7,Center,Active,1610612763,7.9,4.5,1.3,"Gorgui Dieng","Not With Team",17587688,NULL,NULL,NULL,NULL,NULL,NULL
+1629684,"Grant Williams",Tennessee,USA,1998-11-30,22,78,236,1,Forward,Active,1610612738,5.0,2.9,0.9,"Grant Williams",Guaranteed,2498760,Guaranteed,2617800,"Team Option",4306281,"Qualifying Offer",6235495
+1628960,"Grayson Allen",Duke,USA,1995-10-08,26,76,198,2,Guard,Active,1610612763,9.5,3.1,2.1,"Grayson Allen",Guaranteed,2545320,Guaranteed,4054695,"Qualifying Offer",5842815,NULL,NULL
+1627824,"Guerschon Yabusele"," ",France,1995-12-17,25,80,260,2,Forward,Inactive,1610612738,2.3,1.4,0.4,"Guerschon Yabusele","Not With Team",1039080,"Not With Team",1039080,NULL,NULL,NULL,NULL
+1628977,"Hamidou Diallo",Kentucky,USA,1998-07-31,23,77,202,2,Guard,Active,1610612765,11.9,5.2,2.4,"Hamidou Diallo",Guaranteed,1663861,"Qualifying Offer",2079826,NULL,NULL,NULL,NULL
+203084,"Harrison Barnes","North Carolina",USA,1992-05-30,29,80,225,8,Forward,Active,1610612758,16.3,6.5,3.7,"Harrison Barnes",Guaranteed,22215909,Guaranteed,20284091,Guaranteed,18352273,NULL,NULL
+202355,"Hassan Whiteside",Marshall,USA,1989-06-13,32,84,265,8,Center,Active,1610612758,8.0,5.8,0.6,"Hassan Whiteside",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629067,"Isaac Bonga","Skyliners Frankfurt",Germany,1999-11-08,21,80,180,2,Guard,Active,1610612764,2.2,2.1,0.6,"Isaac Bonga",Guaranteed,1663861,"Qualifying Offer",2079826,NULL,NULL,NULL,NULL
+1628392,"Isaiah Hartenstein",Zalgiris,Germany,1998-05-05,23,84,250,2,Center-Forward,Active,1610612743,3.5,2.8,0.5,"Isaiah Hartenstein",Guaranteed,1620564,"Player Option",1762796,NULL,NULL,NULL,NULL
+1629676,"Isaiah Roby",Nebraska-Lincoln,USA,1998-02-03,23,80,230,1,Forward,Active,1610612760,9.0,5.5,1.7,"Isaiah Roby",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+202397,"Ish Smith","Wake Forest",USA,1988-07-05,33,72,175,10,Guard,Active,1610612764,5.2,3.5,4.7,"Ish Smith",Guaranteed,6000000,NULL,NULL,NULL,NULL,NULL,NULL
+1627826,"Ivica Zubac","Mega Basket",Croatia,1997-03-18,24,84,240,4,Center,Active,1610612746,8.5,7.0,1.1,"Ivica Zubac",Guaranteed,7000000,Guaranteed,7518518,"Team Option",7518518,NULL,NULL
+1629630,"Ja Morant","Murray State",USA,1999-08-10,22,75,174,1,Guard,Active,1610612763,19.3,3.3,7.5,"Ja Morant",Guaranteed,9166800,Guaranteed,9603360,"Team Option",12119440,"Qualifying Offer",15815869
+203953,"Jabari Parker",Duke,USA,1995-03-15,26,80,245,6,Forward,Active,1610612758,2.7,2.0,0.3,"Jabari Parker","Not With Team",6500000,NULL,NULL,NULL,NULL,NULL,NULL
+1628980,"Jacob Evans",Cincinnati,USA,1997-06-18,24,76,210,2,Guard-Forward,Inactive,1610612750,2.8,1.1,0.9,"Jacob Evans","Not With Team",2017320,NULL,NULL,NULL,NULL,NULL,NULL
+203109,"Jae Crowder",Marquette,USA,1990-07-06,31,78,235,8,Forward,Active,1610612756,10.1,5.0,2.0,"Jae Crowder",Guaranteed,9258000,Guaranteed,9720900,Guaranteed,10183800,NULL,NULL
+1626143,"Jahlil Okafor",Duke,USA,1995-12-15,25,82,270,5,Center-Forward,Active,1610612765,4.3,2.3,0.3,"Jahlil Okafor",Guaranteed,1882867,Guaranteed,2130023,NULL,NULL,NULL,NULL
+203960,"JaKarr Sampson","St. John's",USA,1993-03-20,28,79,214,5,Forward,Active,1610612754,2.6,1.9,0.1,"JaKarr Sampson",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1627774,"Jake Layman",Maryland,USA,1994-03-07,27,80,209,4,Forward,Active,1610612750,6.1,1.9,0.8,"Jake Layman",Guaranteed,3761085,Guaranteed,3940184,NULL,NULL,NULL,NULL
+1627751,"Jakob Poeltl",Utah,Austria,1995-10-15,26,85,245,4,Center,Active,1610612759,7.1,7.8,1.8,"Jakob Poeltl",Guaranteed,8101852,Guaranteed,8750000,Guaranteed,9398148,NULL,NULL
+1628973,"Jalen Brunson",Villanova,USA,1996-08-31,25,73,190,2,Guard,Active,1610612742,12.2,3.4,3.2,"Jalen Brunson",Guaranteed,1663861,Non-Guaranteed,1802057,NULL,NULL,NULL,NULL
+1629665,"Jalen Lecque","Brewster Academy (NH)",USA,2000-06-13,21,76,185,1,Guard,Active,1610612754,1.3,1.3,0.5,"Jalen Lecque","Not With Team",1517981,NULL,NULL,NULL,NULL,NULL,NULL
+1629667,"Jalen McDaniels","San Diego State",USA,1998-01-31,23,81,205,1,Forward-Center,Active,1610612766,4.5,2.4,0.5,"Jalen McDaniels",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1627750,"Jamal Murray",Kentucky,Canada,1997-02-23,24,75,215,4,Guard,Active,1610612743,21.1,4.0,4.8,"Jamal Murray",Guaranteed,27285000,Guaranteed,29467800,Guaranteed,31650600,Guaranteed,33833400
+201935,"James Harden","Arizona State",USA,1989-08-26,32,77,220,11,Guard,Active,1610612751,25.3,7.9,11.2,"James Harden",Guaranteed,41254920,Guaranteed,44310840,"Player Option",47366760,NULL,NULL
+201949,"James Johnson","Wake Forest",USA,1987-02-20,34,79,240,11,Forward,Active,1610612742,5.7,3.0,1.7,"James Johnson",Guaranteed,16047100,NULL,NULL,NULL,NULL,NULL,NULL
+203210,"JaMychal Green",Alabama,USA,1990-06-21,31,80,227,6,Forward-Center,Active,1610612743,8.7,5.5,0.8,"JaMychal Green",Guaranteed,7199760,"Player Option",7559748,NULL,NULL,NULL,NULL
+201162,"Jared Dudley","Boston College",USA,1985-07-10,36,78,237,13,Forward,Active,1610612747,0.5,1.7,0.5,"Jared Dudley",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629607,"Jared Harper",Auburn,USA,1997-09-14,24,70,175,1,Guard,Active,1610612752,0.7,0.0,0.0,"Jared Harper",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+1629020,"Jarred Vanderbilt",Kentucky,USA,1999-04-03,22,81,214,2,Forward,Active,1610612750,5.6,5.6,1.4,"Jarred Vanderbilt",Guaranteed,1663861,"Qualifying Offer",2079826,NULL,NULL,NULL,NULL
+1629714,"Jarrell Brantley","College of Charleston",USA,1996-06-07,25,77,250,1,Forward,Active,1610612762,0.9,0.6,0.1,"Jarrell Brantley",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+1628386,"Jarrett Allen",Texas,USA,1998-04-21,23,83,243,3,Center,Active,1610612739,12.9,9.9,1.6,"Jarrett Allen",Guaranteed,3909902,"Qualifying Offer",7705447,NULL,NULL,NULL,NULL
+1629633,"Jarrett Culver","Texas Tech",USA,1999-02-20,22,78,195,1,Guard-Forward,Active,1610612750,6.8,4.3,0.8,"Jarrett Culver",Guaranteed,6104280,Guaranteed,6395160,"Team Option",8109063,"Qualifying Offer",10817490
+201580,"JaVale McGee",Nevada-Reno,USA,1988-01-19,33,84,270,12,Center-Forward,Active,1610612739,8.0,5.2,1.0,"JaVale McGee",Guaranteed,4200000,NULL,NULL,NULL,NULL,NULL,NULL
+1629750,"Javonte Green",Radford,USA,1993-07-23,28,76,205,1,Guard-Forward,Active,1610612738,4.2,2.1,0.4,"Javonte Green",Guaranteed,1517981,"Qualifying Offer",1897476,NULL,NULL,NULL,NULL
+1629637,"Jaxson Hayes",Texas,USA,2000-05-23,21,83,220,1,Center-Forward,Active,1610612740,5.5,3.5,0.5,"Jaxson Hayes",Guaranteed,5105160,Guaranteed,5348280,"Team Option",6803012,"Qualifying Offer",9170460
+1627759,"Jaylen Brown",California,USA,1996-10-24,25,78,223,4,Guard-Forward,Active,1610612738,24.7,5.6,3.9,"Jaylen Brown",Guaranteed,23437500,Guaranteed,25312500,Guaranteed,27187500,Guaranteed,29062501
+1629669,"Jaylen Nowell",Washington,USA,1999-07-09,22,76,201,1,Guard,Active,1610612750,10.5,2.2,1.4,"Jaylen Nowell",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1628369,"Jayson Tatum",Duke,USA,1998-03-03,23,80,210,3,Forward-Guard,Active,1610612738,24.9,6.8,4.3,"Jayson Tatum",Guaranteed,9897120,Guaranteed,28103500,Guaranteed,30351780,Guaranteed,32600060
+201145,"Jeff Green",Georgetown,USA,1986-08-28,35,80,235,12,Forward,Active,1610612751,9.8,3.8,1.5,"Jeff Green",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+201952,"Jeff Teague","Wake Forest",USA,1988-06-10,33,75,195,11,Guard,Active,1610612738,6.6,1.6,2.2,"Jeff Teague","Not With Team",2131153,NULL,NULL,NULL,NULL,NULL,NULL
+203924,"Jerami Grant",Syracuse,USA,1994-03-12,27,80,210,6,Forward,Active,1610612765,23.3,5.0,2.8,"Jerami Grant",Guaranteed,19050000,Guaranteed,20002500,Guaranteed,20955000,NULL,NULL
+203087,"Jeremy Lamb",Connecticut,USA,1992-05-30,29,77,180,8,Guard-Forward,Active,1610612754,11.1,3.6,1.6,"Jeremy Lamb",Guaranteed,10500000,Guaranteed,10500000,NULL,NULL,NULL,NULL
+1626170,"Jerian Grant","Notre Dame",USA,1992-10-09,29,76,198,5,Guard,Inactive,1610612764,6.1,1.9,2.9,"Jerian Grant","Not With Team",50000,NULL,NULL,NULL,NULL,NULL,NULL
+1629010,"Jerome Robinson","Boston College",USA,1997-02-22,24,76,190,2,Guard,Active,1610612764,5.2,2.5,1.4,"Jerome Robinson",Guaranteed,3737520,NULL,NULL,NULL,NULL,NULL,NULL
+1628975,"Jevon Carter","West Virginia",USA,1995-09-14,26,73,200,2,Guard,Active,1610612756,2.8,1.1,1.1,"Jevon Carter",Guaranteed,3925000,Guaranteed,3650000,Guaranteed,3925000,NULL,NULL
+202710,"Jimmy Butler",Marquette,USA,1989-09-14,32,79,230,9,Forward,Active,1610612748,21.3,7.9,7.3,"Jimmy Butler",Guaranteed,34379100,Guaranteed,36016200,"Player Option",37653300,NULL,NULL
+200755,"JJ Redick",Duke,USA,1984-06-24,37,75,200,14,Guard,Active,1610612740,8.7,1.7,1.3,"JJ Redick",Guaranteed,13013700,NULL,NULL,NULL,NULL,NULL,NULL
+201149,"Joakim Noah",Florida,USA,1985-02-25,36,83,232,13,Forward-Center,Inactive,1610612746,8.8,9.0,2.8,"Joakim Noah","Not With Team",6431667,"Not With Team",6431667,NULL,NULL,NULL,NULL
+203925,"Joe Harris",Virginia,USA,1991-09-06,30,78,220,6,Guard-Forward,Active,1610612751,14.7,3.5,1.8,"Joe Harris",Guaranteed,16071429,Guaranteed,17357143,Guaranteed,18642857,Guaranteed,19928571
+204060,"Joe Ingles","Maccabi Tel Aviv",Australia,1987-10-02,34,80,220,6,Forward-Guard,Active,1610612762,12.3,3.6,4.2,"Joe Ingles",Guaranteed,10863637,Guaranteed,13036364,NULL,NULL,NULL,NULL
+203954,"Joel Embiid",Kansas,Cameroon,1994-03-16,27,84,280,4,Center-Forward,Active,1610612755,29.9,11.5,3.3,"Joel Embiid",Guaranteed,29542010,Guaranteed,31579390,Guaranteed,33616770,NULL,NULL
+1628381,"John Collins","Wake Forest",USA,1997-09-23,24,81,235,3,Forward-Center,Active,1610612737,18.3,7.8,1.3,"John Collins",Guaranteed,4137302,"Qualifying Offer",7705447,NULL,NULL,NULL,NULL
+203089,"John Henson","North Carolina",USA,1990-12-28,30,81,219,8,Forward-Center,Inactive,1610612765,7.6,5.3,1.1,"John Henson",Guaranteed,110998,NULL,NULL,NULL,NULL,NULL,NULL
+1629723,"John Konchar","Indiana-Purdue Fort Wayne",USA,1996-03-22,25,77,210,1,Guard,Active,1610612763,4.0,3.3,1.1,"John Konchar",Guaranteed,2100000,Guaranteed,2200000,Non-Guaranteed,2300000,Non-Guaranteed,2400000
+202322,"John Wall",Kentucky,USA,1990-09-06,31,75,210,9,Guard,Active,1610612745,21.1,3.5,6.3,"John Wall",Guaranteed,41254920,Guaranteed,44310840,"Player Option",47366760,NULL,NULL
+202720,"Jon Leuer",Wisconsin,USA,1989-05-14,32,82,228,8,Forward,Inactive,1610612765,6.4,3.8,0.8,"Jon Leuer","Not With Team",3169348,"Not With Team",3169347,NULL,NULL,NULL,NULL
+202685,"Jonas Valanciunas","Lietuvos rytas Vilnius",Lithuania,1992-05-06,29,83,265,8,Center,Active,1610612763,15.9,12.3,1.8,"Jonas Valanciunas",Guaranteed,15000000,Guaranteed,14000000,NULL,NULL,NULL,NULL
+1628371,"Jonathan Isaac","Florida State",USA,1997-10-03,24,83,230,3,Forward,Active,1610612753,11.9,6.8,1.4,"Jonathan Isaac",Guaranteed,7362566,Guaranteed,17400000,Guaranteed,17400000,Guaranteed,17400000
+203903,"Jordan Clarkson",Missouri,USA,1992-06-07,29,76,194,6,Guard,Active,1610612762,17.5,3.9,2.2,"Jordan Clarkson",Guaranteed,11500000,Guaranteed,12420000,Guaranteed,13340000,"Player Option",14260000
+1629162,"Jordan McLaughlin","Southern California",USA,1996-04-09,25,71,185,1,Guard,Active,1610612750,5.4,2.3,4.7,"Jordan McLaughlin",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+1629673,"Jordan Poole",Michigan,USA,1999-06-19,22,76,194,1,Guard,Active,1610612744,10.8,1.6,1.4,"Jordan Poole",Guaranteed,2063280,Guaranteed,2161440,"Team Option",3901399,"Qualifying Offer",5813085
+1627982,"Josh Gray","Louisiana State",USA,1993-09-09,28,72,180,2,Guard,Inactive,1610612740,4.9,1.7,2.0,"Josh Gray","Not With Team",1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1628404,"Josh Hart",Villanova,USA,1995-03-06,26,77,215,3,Guard,Active,1610612740,9.1,7.6,2.2,"Josh Hart",Guaranteed,3491159,"Qualifying Offer",5236739,NULL,NULL,NULL,NULL
+1628367,"Josh Jackson",Kansas,USA,1997-02-10,24,80,207,3,Guard-Forward,Active,1610612765,13.2,4.2,2.1,"Josh Jackson",Guaranteed,4767000,Guaranteed,5005350,NULL,NULL,NULL,NULL
+1629006,"Josh Okogie","Georgia Tech",Nigeria,1998-09-01,23,76,213,2,Guard,Active,1610612750,4.8,2.6,1.2,"Josh Okogie",Guaranteed,2651040,Guaranteed,4087904,"Qualifying Offer",5857966,NULL,NULL
+1626196,"Josh Richardson",Tennessee,USA,1993-09-15,28,77,200,5,Guard,Active,1610612742,13.3,3.3,2.7,"Josh Richardson",Guaranteed,10865952,"Player Option",11615328,NULL,NULL,NULL,NULL
+2747,"JR Smith","No College",USA,1985-09-09,36,78,220,16,Guard,Inactive,1610612747,12.4,3.1,2.1,"JR Smith","Not With Team",1456667,"Not With Team",1456667,NULL,NULL,NULL,NULL
+201950,"Jrue Holiday",UCLA,USA,1990-06-12,31,75,205,11,Guard,Active,1610612749,15.9,4.6,5.2,"Jrue Holiday",Guaranteed,25876111,Guaranteed,31051333,Guaranteed,33535440,Guaranteed,36019547
+1627823,"Juancho Hernangomez",Estudiantes,Spain,1995-09-28,26,81,214,4,Forward,Active,1610612750,6.2,4.2,0.6,"Juancho Hernangomez",Guaranteed,6493000,Guaranteed,7012440,Non-Guaranteed,7531880,NULL,NULL
+203944,"Julius Randle",Kentucky,USA,1994-11-29,26,80,250,6,Forward-Center,Active,1610612752,23.3,10.9,5.9,"Julius Randle",Guaranteed,18900000,Non-Guaranteed,19800000,NULL,NULL,NULL,NULL
+1626147,"Justin Anderson",Virginia,USA,1993-11-19,27,77,231,5,Forward-Guard,Inactive,1610612751,5.2,2.5,0.7,"Justin Anderson","Not With Team",125000,NULL,NULL,NULL,NULL,NULL,NULL
+203200,"Justin Holiday",Washington,USA,1989-04-05,32,78,180,7,Forward-Guard,Active,1610612754,11.6,3.9,1.7,"Justin Holiday",Guaranteed,5720400,Guaranteed,6006420,Guaranteed,6292440,NULL,NULL
+1628382,"Justin Jackson","North Carolina",USA,1995-03-28,26,80,220,3,Forward,Active,1610612760,7.0,2.2,1.5,"Justin Jackson","Not With Team",5029650,NULL,NULL,NULL,NULL,NULL,NULL
+1629713,"Justin James",Wyoming,USA,1997-01-24,24,79,190,1,Guard-Forward,Active,1610612758,2.1,0.5,0.5,"Justin James",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+1626159,"Justise Winslow",Duke,USA,1996-03-26,25,78,222,5,Forward-Guard,Active,1610612763,7.8,4.9,1.8,"Justise Winslow",Guaranteed,13000000,"Team Option",13000000,NULL,NULL,NULL,NULL
+203994,"Jusuf Nurkic",Cedevita,"Bosnia and Herzegovina",1994-08-23,27,83,290,6,Center,Active,1610612757,9.8,7.7,2.8,"Jusuf Nurkic",Guaranteed,12888889,Non-Guaranteed,12000000,NULL,NULL,NULL,NULL
+1629752,"Juwan Morgan",Indiana,USA,1997-04-17,24,79,232,1,Forward,Active,1610612762,0.9,0.8,0.2,"Juwan Morgan",Guaranteed,1517981,"Qualifying Offer",1897476,NULL,NULL,NULL,NULL
+202695,"Kawhi Leonard","San Diego State",USA,1991-06-29,30,79,225,9,Forward,Active,1610612746,25.9,6.3,4.9,"Kawhi Leonard",Guaranteed,34379100,"Player Option",36016200,NULL,NULL,NULL,NULL
+1629103,"Kelan Martin",Butler,USA,1995-08-03,26,77,230,1,Forward,Active,1610612754,1.3,0.9,0.1,"Kelan Martin",Guaranteed,1445697,Non-Guaranteed,1701593,"Qualifying Offer",2126991,NULL,NULL
+1629640,"Keldon Johnson",Kentucky,USA,1999-10-11,22,77,220,1,Forward-Guard,Active,1610612759,13.9,6.5,2.0,"Keldon Johnson",Guaranteed,2048040,Guaranteed,2145720,"Team Option",3873025,"Qualifying Offer",5809538
+203482,"Kelly Olynyk",Gonzaga,Canada,1991-04-19,30,83,240,7,Forward-Center,Active,1610612748,10.0,6.1,2.1,"Kelly Olynyk",Guaranteed,12819649,NULL,NULL,NULL,NULL,NULL,NULL
+202689,"Kemba Walker",Connecticut,USA,1990-05-08,31,72,184,9,Guard,Active,1610612738,17.7,3.6,4.6,"Kemba Walker",Guaranteed,34379100,Guaranteed,36016200,"Player Option",37653300,NULL,NULL
+1629134,"Kendrick Nunn",Oakland,USA,1995-08-03,26,74,190,1,Guard,Active,1610612748,13.3,3.2,2.6,"Kendrick Nunn",Guaranteed,1663861,"Qualifying Offer",4736102,NULL,NULL,NULL,NULL
+1629026,"Kenrich Williams",TCU,USA,1994-12-02,26,78,210,2,Guard-Forward,Active,1610612760,7.0,4.1,1.8,"Kenrich Williams",Guaranteed,2000000,Guaranteed,2000000,Non-Guaranteed,2000000,NULL,NULL
+203145,"Kent Bazemore","Old Dominion",USA,1989-07-01,32,76,195,8,Guard-Forward,Active,1610612744,6.1,2.9,1.6,"Kent Bazemore",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+201142,"Kevin Durant",Texas,USA,1988-09-29,33,82,240,12,Forward,Active,1610612751,29.0,7.3,5.3,"Kevin Durant",Guaranteed,40108950,Guaranteed,42018900,"Player Option",43928850,NULL,NULL
+1628989,"Kevin Huerter",Maryland,USA,1998-08-27,23,79,190,2,Guard-Forward,Active,1610612737,11.9,3.7,3.6,"Kevin Huerter",Guaranteed,2761920,Guaranteed,4253357,"Qualifying Offer",6065287,NULL,NULL
+201567,"Kevin Love",UCLA,USA,1988-09-07,33,80,251,12,Forward-Center,Active,1610612739,5.8,3.3,1.3,"Kevin Love",Guaranteed,31258256,Guaranteed,31258256,Guaranteed,28942830,NULL,NULL
+1626172,"Kevon Looney",UCLA,USA,1996-02-06,25,81,222,5,Forward,Active,1610612744,3.9,4.2,1.6,"Kevon Looney",Guaranteed,4821429,"Player Option",5178572,NULL,NULL,NULL,NULL
+203920,"Khem Birch",UNLV,Canada,1992-09-28,29,81,233,3,Center,Active,1610612753,5.5,5.2,1.0,"Khem Birch",Guaranteed,3000000,NULL,NULL,NULL,NULL,NULL,NULL
+203114,"Khris Middleton","Texas A&M",USA,1991-08-12,30,79,222,8,Forward,Active,1610612749,20.4,6.0,5.5,"Khris Middleton",Guaranteed,33051724,Guaranteed,35500000,Guaranteed,37948276,"Player Option",40396552
+1629017,"Khyri Thomas",Creighton,USA,1996-05-08,25,75,210,2,Guard,Inactive,1610612765,2.3,0.6,0.3,"Khyri Thomas","Not With Team",744684,NULL,NULL,NULL,NULL,NULL,NULL
+202691,"Klay Thompson","Washington State",USA,1990-02-08,31,78,215,8,Guard,Active,1610612744,21.5,3.8,2.4,"Klay Thompson",Guaranteed,35361360,Guaranteed,37980720,Guaranteed,40600080,Guaranteed,43219440
+1628961,"Kostas Antetokounmpo",Dayton,Greece,1997-11-20,23,82,200,2,Forward,Active,1610612747,1.2,1.8,0.0,"Kostas Antetokounmpo",NULL,NULL,"Qualifying Offer",1729217,NULL,NULL,NULL,NULL
+1627739,"Kris Dunn",Providence,USA,1994-03-18,27,75,205,4,Guard,Active,1610612737,7.3,3.6,3.4,"Kris Dunn",Guaranteed,4767000,"Player Option",5005350,NULL,NULL,NULL,NULL
+204001,"Kristaps Porzingis","Cajasol Sevilla",Latvia,1995-08-02,26,87,240,4,Forward-Center,Active,1610612742,19.7,8.6,1.3,"Kristaps Porzingis",Guaranteed,29467800,Guaranteed,31650600,Guaranteed,33833400,"Player Option",36016200
+203937,"Kyle Anderson",UCLA,USA,1993-09-20,28,81,230,6,Forward-Guard,Active,1610612763,12.8,5.8,3.4,"Kyle Anderson",Guaranteed,9505100,Guaranteed,9937150,NULL,NULL,NULL,NULL
+1628398,"Kyle Kuzma",Utah,USA,1995-07-24,26,82,221,3,Forward,Active,1610612747,12.1,6.7,1.5,"Kyle Kuzma",Guaranteed,3562178,Guaranteed,13000000,Guaranteed,13000000,"Player Option",13000000
+200768,"Kyle Lowry",Villanova,USA,1986-03-25,35,72,196,14,Guard,Active,1610612761,17.6,5.6,7.4,"Kyle Lowry",Guaranteed,30500000,NULL,NULL,NULL,NULL,NULL,NULL
+202713,"Kyle Singler",Duke,USA,1988-05-04,33,80,228,5,Forward,Inactive,1610612765,6.5,2.9,0.8,"Kyle Singler","Not With Team",999200,"Not With Team",999200,"Not With Team",999200,NULL,NULL
+202681,"Kyrie Irving",Duke,Australia,1992-03-23,29,74,195,9,Guard,Active,1610612751,28.1,4.8,5.7,"Kyrie Irving",Guaranteed,33460350,Guaranteed,35053700,"Player Option",36647050,NULL,NULL
+1629644,"KZ Okpala",Stanford,USA,1999-04-28,22,80,215,1,Forward-Guard,Active,1610612748,2.7,2.0,0.4,"KZ Okpala",Guaranteed,1517981,Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+200746,"LaMarcus Aldridge",Texas,USA,1985-07-19,36,83,250,14,Center-Forward,Active,1610612759,13.7,4.5,1.7,"LaMarcus Aldridge","Not With Team",17304988,NULL,NULL,NULL,NULL,NULL,NULL
+1629013,"Landry Shamet","Wichita State",USA,1997-03-13,24,76,190,2,Guard,Active,1610612751,7.8,1.8,1.1,"Landry Shamet",Guaranteed,2090040,Guaranteed,3768342,"Qualifying Offer",5562073,NULL,NULL
+204038,"Langston Galloway","St. Joseph's (PA)",USA,1991-12-09,29,73,200,6,Guard,Active,1610612756,5.1,1.0,0.8,"Langston Galloway",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1628374,"Lauri Markkanen",Arizona,Finland,1997-05-22,24,84,240,3,Forward-Center,Active,1610612741,17.7,6.0,0.9,"Lauri Markkanen",Guaranteed,6731508,"Qualifying Offer",9026852,NULL,NULL,NULL,NULL
+2544,"LeBron James","St. Vincent-St. Mary HS (OH)",USA,1984-12-30,36,81,250,17,Forward,Active,1610612747,25.4,7.9,7.9,"LeBron James",Guaranteed,39219566,Guaranteed,41180544,Guaranteed,44474988,NULL,NULL
+1628366,"Lonzo Ball",UCLA,USA,1997-10-27,24,78,190,3,Guard,Active,1610612740,14.2,4.2,5.6,"Lonzo Ball",Guaranteed,11003782,"Qualifying Offer",14359936,NULL,NULL,NULL,NULL
+101150,"Lou Williams","South Gwinnett HS (GA)",USA,1986-10-27,35,73,175,15,Guard,Active,1610612746,12.0,2.1,3.5,"Lou Williams",Guaranteed,8000000,NULL,NULL,NULL,NULL,NULL,NULL
+1629652,"Luguentz Dort","Arizona State",Canada,1999-04-19,22,75,215,1,Guard,Active,1610612760,12.6,3.5,1.6,"Luguentz Dort",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1629029,"Luka Doncic","Real Madrid",Slovenia,1999-02-28,22,79,230,2,Forward-Guard,Active,1610612742,29.0,8.4,9.2,"Luka Doncic",Guaranteed,8049360,Guaranteed,10174391,"Qualifying Offer",13348801,NULL,NULL
+1629677,"Luka Samanic","Union Olimpija",Croatia,2000-01-09,21,82,227,1,Forward,Active,1610612759,3.8,2.5,0.2,"Luka Samanic",Guaranteed,2824320,Guaranteed,2959080,"Team Option",4556983,"Qualifying Offer",6498258
+1628379,"Luke Kennard",Duke,USA,1996-06-24,25,77,206,3,Guard,Active,1610612746,8.0,2.7,1.8,"Luke Kennard",Guaranteed,5273826,Guaranteed,12727273,Guaranteed,13745455,Guaranteed,14763636
+1628436,"Luke Kornet",Vanderbilt,USA,1995-07-15,26,86,250,3,Forward-Center,Active,1610612741,2.0,1.2,0.3,"Luke Kornet",Guaranteed,2250000,NULL,NULL,NULL,NULL,NULL,NULL
+2736,"Luol Deng",Duke,"United Kingdom",1985-04-16,36,81,237,15,Forward,Inactive,1610612750,14.8,6.1,2.3,"Luol Deng","Not With Team",5000000,"Not With Team",5000000,NULL,NULL,NULL,NULL
+1627763,"Malcolm Brogdon",Virginia,USA,1992-12-11,28,77,229,4,Guard,Active,1610612754,21.6,4.7,6.1,"Malcolm Brogdon",Guaranteed,20700000,Guaranteed,21700000,Guaranteed,22600000,NULL,NULL
+1627736,"Malik Beasley","Florida State",USA,1996-11-26,24,76,187,4,Guard,Active,1610612750,20.5,4.6,2.5,"Malik Beasley",Guaranteed,13425895,Guaranteed,14491964,Guaranteed,15558035,"Team Option",16524106
+1628370,"Malik Monk",Kentucky,USA,1998-02-04,23,75,200,3,Guard,Active,1610612766,12.3,2.7,1.8,"Malik Monk",Guaranteed,5345687,"Qualifying Offer",7318246,NULL,NULL,NULL,NULL
+201188,"Marc Gasol","FC Barcelona",Spain,1985-01-29,36,83,255,12,Center,Active,1610612747,4.8,4.1,2.0,"Marc Gasol",Guaranteed,2564753,Guaranteed,2692991,NULL,NULL,NULL,NULL
+203935,"Marcus Smart","Oklahoma State",USA,1994-03-06,27,75,220,6,Guard,Active,1610612738,12.8,2.8,5.4,"Marcus Smart",Guaranteed,13446428,Guaranteed,14339285,NULL,NULL,NULL,NULL
+1626209,"Mario Hezonja"," ",Croatia,1995-02-25,26,80,220,5,Forward-Guard,Inactive,1610612757,6.9,3.1,1.3,"Mario Hezonja","Not With Team",1977011,NULL,NULL,NULL,NULL,NULL,NULL
+1628365,"Markelle Fultz",Washington,USA,1998-05-29,23,75,209,3,Guard,Active,1610612753,12.9,3.1,5.4,"Markelle Fultz",Guaranteed,12288697,Guaranteed,16500000,Guaranteed,16500000,Non-Guaranteed,17000000
+202693,"Markieff Morris",Kansas,USA,1989-09-02,32,81,245,9,Forward,Active,1610612747,6.1,4.2,1.1,"Markieff Morris",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629741,"Marko Guduric"," ",Serbia,1995-03-08,26,78,201,1,Guard,Inactive,1610612763,3.9,1.7,1.0,"Marko Guduric","Not With Team",2750000,NULL,NULL,NULL,NULL,NULL,NULL
+1627737,"Marquese Chriss",Washington,USA,1997-07-02,24,81,240,4,Forward,Active,1610612744,6.5,6.5,1.0,"Marquese Chriss","Not With Team",1824003,NULL,NULL,NULL,NULL,NULL,NULL
+1628963,"Marvin Bagley III",Duke,USA,1999-03-14,22,83,235,2,Forward,Active,1610612758,13.9,7.4,0.9,"Marvin Bagley III",Guaranteed,8963640,Guaranteed,11312114,"Qualifying Offer",14762309,NULL,NULL
+203486,"Mason Plumlee",Duke,USA,1990-03-05,31,83,254,7,Forward-Center,Active,1610612765,10.3,9.5,3.6,"Mason Plumlee",Guaranteed,8000000,Guaranteed,8137500,Non-Guaranteed,8525000,NULL,NULL
+1629680,"Matisse Thybulle",Washington,USA,1997-03-04,24,77,201,1,Guard-Forward,Active,1610612755,3.7,1.7,1.0,"Matisse Thybulle",Guaranteed,2711280,Guaranteed,2840160,"Team Option",4379527,"Qualifying Offer",6275862
+1629744,"Matt Thomas","Iowa State",USA,1994-08-04,27,76,190,1,Guard,Active,1610612761,2.6,0.8,0.4,"Matt Thomas",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+203521,"Matthew Dellavedova","St.Mary's College of California",Australia,1990-09-08,31,75,200,7,Guard,Active,1610612739,3.1,1.3,3.2,"Matthew Dellavedova",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+203090,"Maurice Harkless","St. John's",USA,1993-05-11,28,79,220,8,Forward-Guard,Active,1610612748,1.4,1.2,0.6,"Maurice Harkless",Guaranteed,3623000,NULL,NULL,NULL,NULL,NULL,NULL
+1628467,"Maxi Kleber","Bayern Munich",Germany,1992-01-29,29,82,240,3,Forward,Active,1610612742,7.8,5.4,1.4,"Maxi Kleber",Guaranteed,8325000,Guaranteed,8825000,Non-Guaranteed,9075000,NULL,NULL
+203086,"Meyers Leonard",Illinois,USA,1992-02-27,29,84,260,8,Forward-Center,Active,1610612760,3.3,2.3,0.7,"Meyers Leonard","Not With Team",9400000,NULL,NULL,NULL,NULL,NULL,NULL
+1629662,"Mfiondu Kabengele","Florida State",Canada,1997-08-14,24,81,250,1,Forward-Center,Active,1610612758,1.2,0.6,0.2,"Mfiondu Kabengele","Not With Team",2075880,NULL,NULL,NULL,NULL,NULL,NULL
+1628969,"Mikal Bridges",Villanova,USA,1996-08-30,25,78,209,2,Forward,Active,1610612756,13.7,4.9,2.4,"Mikal Bridges",Guaranteed,4359000,Guaranteed,5557725,"Qualifying Offer",7569621,NULL,NULL
+201144,"Mike Conley","Ohio State",USA,1987-10-11,34,73,175,13,Guard,Active,1610612762,16.4,3.4,5.5,"Mike Conley",Guaranteed,34502132,NULL,NULL,NULL,NULL,NULL,NULL
+203488,"Mike Muscala",Bucknell,USA,1991-07-01,30,82,240,7,Forward-Center,Active,1610612760,9.7,3.8,0.8,"Mike Muscala",Guaranteed,2283034,NULL,NULL,NULL,NULL,NULL,NULL
+203118,"Mike Scott",Virginia,USA,1988-07-16,33,79,237,8,Forward,Active,1610612755,3.8,2.6,0.5,"Mike Scott",Guaranteed,5005350,NULL,NULL,NULL,NULL,NULL,NULL
+1628970,"Miles Bridges","Michigan State",USA,1998-03-21,23,78,225,2,Forward,Active,1610612766,9.6,5.6,2.0,"Miles Bridges",Guaranteed,3934320,Guaranteed,5421493,"Qualifying Offer",7459974,NULL,NULL
+1629011,"Mitchell Robinson","Western Kentucky",USA,1998-04-01,23,84,240,2,Center-Forward,Active,1610612752,8.6,8.4,0.6,"Mitchell Robinson",Guaranteed,1663861,"Team Option",1802057,NULL,NULL,NULL,NULL
+1629671,"Miye Oni",Yale,USA,1997-08-04,24,77,206,1,Guard-Forward,Active,1610612762,2.0,1.6,0.2,"Miye Oni",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+1628964,"Mo Bamba",Texas-Austin,USA,1998-05-12,23,84,231,2,Center,Active,1610612753,4.6,3.9,0.3,"Mo Bamba",Guaranteed,5969040,Guaranteed,7568743,"Team Option",10096703,NULL,NULL
+101145,"Monta Ellis","No College",USA,1985-10-26,36,75,185,12,Guard,Inactive,1610612744,17.8,3.5,4.6,"Monta Ellis","Not With Team",2245400,"Not With Team",2245400,NULL,NULL,NULL,NULL
+1628420,"Monte Morris","Iowa State",USA,1995-06-27,26,74,183,3,Guard,Active,1610612743,10.4,2.2,3.4,"Monte Morris",Guaranteed,1723707,Guaranteed,8449074,Guaranteed,9125000,Guaranteed,9800926
+1626149,"Montrezl Harrell",Louisville,USA,1994-01-26,27,79,240,5,Forward-Center,Active,1610612747,14.8,6.6,1.1,"Montrezl Harrell",Guaranteed,9258000,"Player Option",9720900,NULL,NULL,NULL,NULL
+1629021,"Moritz Wagner",Michigan,Germany,1997-04-26,24,83,245,2,Forward-Center,Active,1610612764,7.1,2.9,1.3,"Moritz Wagner",Guaranteed,2161920,NULL,NULL,NULL,NULL,NULL,NULL
+1629650,"Moses Brown",UCLA,USA,1999-10-13,22,86,245,1,Center,Active,1610612760,6.6,6.5,0.3,"Moses Brown",Guaranteed,1250000,Non-Guaranteed,1701593,Non-Guaranteed,1846738,"Team Option",1997718
+1626167,"Myles Turner",Texas,USA,1996-03-24,25,83,250,5,Center-Forward,Active,1610612754,13.2,6.5,1.0,"Myles Turner",Guaranteed,18000000,Guaranteed,18000000,Guaranteed,18000000,NULL,NULL
+1629642,"Nassir Little","North Carolina",USA,2000-02-11,21,77,220,1,Forward-Guard,Active,1610612757,5.3,2.6,0.4,"Nassir Little",Guaranteed,2210640,Guaranteed,2316240,"Team Option",4171548,"Qualifying Offer",6128004
+1629675,"Naz Reid","Louisiana State",USA,1999-08-26,22,81,264,1,Center-Forward,Active,1610612750,11.4,4.6,1.2,"Naz Reid",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+202357,"Nemanja Bjelica",Fenerbahce,Serbia,1988-05-09,33,82,234,5,Forward,Active,1610612758,7.2,3.8,1.9,"Nemanja Bjelica",Guaranteed,7150000,NULL,NULL,NULL,NULL,NULL,NULL
+203457,"Nerlens Noel",Kentucky,USA,1994-04-10,27,83,220,6,Center-Forward,Active,1610612752,4.8,6.0,0.6,"Nerlens Noel",Guaranteed,5000000,NULL,NULL,NULL,NULL,NULL,NULL
+201587,"Nicolas Batum","Le Mans",France,1988-12-14,32,80,230,12,Guard-Forward,Active,1610612746,8.6,4.7,2.3,"Nicolas Batum","Not With Team",10664042,"Not With Team",9043478,"Not With Team",9043478,NULL,NULL
+1629651,"Nicolas Claxton",Georgia,USA,1999-04-17,22,83,215,1,Forward-Center,Active,1610612751,9.8,4.3,0.9,"Nicolas Claxton",Guaranteed,1517981,Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+1629740,"Nicolo Melli",Fenerbahce,Italy,1991-01-26,30,81,236,1,Forward,Active,1610612740,2.0,2.6,1.1,"Nicolo Melli",Guaranteed,3897436,"Qualifying Offer",4871795,NULL,NULL,NULL,NULL
+203999,"Nikola Jokic","Mega Basket",Serbia,1995-02-19,26,83,284,5,Center,Active,1610612743,27.1,11.3,8.6,"Nikola Jokic",Guaranteed,29542010,Guaranteed,31579390,Guaranteed,33616770,NULL,NULL
+202696,"Nikola Vucevic","Southern California",Montenegro,1990-10-24,31,83,260,9,Center,Active,1610612753,24.5,11.7,3.8,"Nikola Vucevic",Guaranteed,26000000,Guaranteed,24000000,Guaranteed,22000000,NULL,NULL
+1626181,"Norman Powell",UCLA,USA,1993-05-25,28,75,215,5,Guard,Active,1610612761,19.5,3.0,1.8,"Norman Powell",Guaranteed,10865952,"Player Option",11615328,NULL,NULL,NULL,NULL
+1628384,"OG Anunoby",Indiana,"United Kingdom",1997-07-17,24,79,232,3,Forward,Active,1610612761,14.0,5.7,1.6,"OG Anunoby",Guaranteed,3872215,Guaranteed,16071429,Guaranteed,17357143,Guaranteed,18642857
+1629016,"Omari Spellman",Villanova,USA,1997-07-21,24,80,245,2,Forward,Inactive,1610612750,6.8,4.3,1.0,"Omari Spellman","Not With Team",1988280,NULL,NULL,NULL,NULL,NULL,NULL
+1629052,"Oshae Brissett",Syracuse,Canada,1998-06-20,23,79,210,1,Forward-Guard,Inactive,1610612761,1.9,1.4,0.4,"Oshae Brissett","Not With Team",399020,NULL,NULL,NULL,NULL,NULL,NULL
+1627783,"Pascal Siakam","New Mexico State",Cameroon,1994-04-02,27,81,230,4,Forward,Active,1610612761,19.8,7.3,4.7,"Pascal Siakam",Guaranteed,30559200,Guaranteed,33003936,Guaranteed,35448672,Guaranteed,37893408
+1626192,"Pat Connaughton","Notre Dame",USA,1993-01-06,28,77,209,5,Guard,Active,1610612749,6.9,4.5,1.3,"Pat Connaughton",Guaranteed,4938273,Guaranteed,5333334,"Player Option",5728393,NULL,NULL
+201976,"Patrick Beverley",Arkansas,USA,1988-07-12,33,73,180,8,Guard,Active,1610612746,8.3,3.7,2.1,"Patrick Beverley",Guaranteed,13333333,Guaranteed,14320987,NULL,NULL,NULL,NULL
+1627775,"Patrick McCaw",UNLV,USA,1995-10-25,26,79,181,4,Guard,Active,1610612761,1.0,0.6,0.8,"Patrick McCaw",Guaranteed,4000000,NULL,NULL,NULL,NULL,NULL,NULL
+202335,"Patrick Patterson",Kentucky,USA,1989-03-14,32,80,235,10,Forward,Active,1610612746,4.7,2.0,0.5,"Patrick Patterson","Not With Team",3814771,"Not With Team",737066,NULL,NULL,NULL,NULL
+201988,"Patty Mills","St.Mary's College of California",Australia,1988-08-11,33,73,180,11,Guard,Active,1610612759,12.9,1.8,2.5,"Patty Mills",Guaranteed,13535714,NULL,NULL,NULL,NULL,NULL,NULL
+202331,"Paul George","Fresno State",USA,1990-05-02,31,80,220,10,Forward,Active,1610612746,22.5,6.0,5.5,"Paul George",Guaranteed,35450412,Guaranteed,39344900,Guaranteed,42492492,Guaranteed,45640084
+200794,"Paul Millsap","Louisiana Tech",USA,1985-02-10,36,79,257,14,Forward,Active,1610612743,9.5,5.0,1.6,"Paul Millsap",Guaranteed,10000000,NULL,NULL,NULL,NULL,NULL,NULL
+1628778,"Paul Watson","Fresno State",USA,1994-12-30,26,78,210,1,Guard,Active,1610612761,2.6,1.3,0.4,"Paul Watson",Guaranteed,1445697,Non-Guaranteed,1701593,"Qualifying Offer",2126991,NULL,NULL
+1628408,"PJ Dozier","South Carolina",USA,1996-10-25,25,78,205,3,Guard-Forward,Active,1610612743,7.7,3.8,1.6,"PJ Dozier",Guaranteed,1762796,Non-Guaranteed,1910860,NULL,NULL,NULL,NULL
+1626188,"Quinn Cook",Duke,USA,1993-03-23,28,73,180,4,Guard,Active,1610612739,2.9,0.7,0.7,"Quinn Cook","Not With Team",1110998,NULL,NULL,NULL,NULL,NULL,NULL
+1629683,"Quinndary Weatherspoon","Mississippi State",USA,1996-09-10,25,75,205,1,Guard,Active,1610612759,0.8,0.4,0.5,"Quinndary Weatherspoon",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+200765,"Rajon Rondo",Kentucky,USA,1986-02-22,35,73,180,14,Guard,Active,1610612737,3.9,2.0,3.5,"Rajon Rondo",Guaranteed,8250000,Guaranteed,8250000,NULL,NULL,NULL,NULL
+203526,"Raul Neto",Murcia,Brazil,1992-05-19,29,73,180,5,Guard,Active,1610612764,7.7,2.2,2.2,"Raul Neto",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629730,"Rayjon Tucker","Arkansas-Little Rock",USA,1997-09-24,24,75,209,1,Guard,Active,1610612755,4.0,0.0,1.0,"Rayjon Tucker","Not With Team",340000,NULL,NULL,NULL,NULL,NULL,NULL
+203493,"Reggie Bullock","North Carolina",USA,1991-03-16,30,78,205,7,Guard-Forward,Active,1610612752,9.3,3.4,1.4,"Reggie Bullock",Guaranteed,4200000,NULL,NULL,NULL,NULL,NULL,NULL
+202704,"Reggie Jackson","Boston College",USA,1990-04-16,31,74,208,9,Guard,Active,1610612746,8.7,2.6,2.8,"Reggie Jackson",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1626158,"Richaun Holmes","Bowling Green",USA,1993-10-15,28,82,235,5,Forward,Active,1610612758,13.9,8.8,1.8,"Richaun Holmes",Guaranteed,5005350,NULL,NULL,NULL,NULL,NULL,NULL
+201937,"Ricky Rubio","FC Barcelona",Spain,1990-10-21,31,75,190,9,Guard,Active,1610612750,8.8,3.2,6.8,"Ricky Rubio",Guaranteed,17000000,Guaranteed,17800000,NULL,NULL,NULL,NULL
+1629628,"RJ Barrett",Duke,Canada,2000-06-14,21,78,214,1,Forward-Guard,Active,1610612752,17.3,6.1,3.0,"RJ Barrett",Guaranteed,8231760,Guaranteed,8623920,"Team Option",10900635,"Qualifying Offer",14301633
+203496,"Robert Covington","Tennessee State",USA,1990-12-14,30,79,209,7,Forward,Active,1610612757,8.6,6.7,1.7,"Robert Covington",Guaranteed,12138345,Guaranteed,12975471,NULL,NULL,NULL,NULL
+201577,"Robin Lopez",Stanford,USA,1988-04-01,33,84,281,12,Center,Active,1610612764,8.2,4.1,0.9,"Robin Lopez",Guaranteed,7300000,NULL,NULL,NULL,NULL,NULL,NULL
+1629066,"Rodions Kurucs","FC Barcelona",Latvia,1998-02-05,23,81,228,2,Forward,Active,1610612749,1.0,0.9,0.4,"Rodions Kurucs",Guaranteed,1780152,"Team Option",1861068,NULL,NULL,NULL,NULL
+203918,"Rodney Hood",Duke,USA,1992-10-20,29,80,208,6,Guard-Forward,Active,1610612757,4.7,1.9,1.2,"Rodney Hood",Guaranteed,10047450,Non-Guaranteed,10851246,NULL,NULL,NULL,NULL
+203585,"Rodney McGruder","Kansas State",USA,1991-07-29,30,76,205,4,Guard,Active,1610612765,5.6,1.4,1.0,"Rodney McGruder",Guaranteed,5192307,Non-Guaranteed,5000000,NULL,NULL,NULL,NULL
+1629641,"Romeo Langford",Indiana,USA,1999-10-25,22,76,216,1,Guard-Forward,Active,1610612738,2.5,1.3,0.4,"Romeo Langford",Guaranteed,3631200,Guaranteed,3804360,"Team Option",5634257,"Qualifying Offer",7837251
+1626220,"Royce O'Neale",Baylor,USA,1993-06-05,28,76,226,3,Forward,Active,1610612762,7.5,6.6,2.6,"Royce O'Neale",Guaranteed,8500000,Guaranteed,8800000,Guaranteed,9200000,Non-Guaranteed,9500000
+200752,"Rudy Gay",Connecticut,USA,1986-08-17,35,80,250,14,Forward-Guard,Active,1610612759,10.9,4.9,1.5,"Rudy Gay",Guaranteed,14500000,NULL,NULL,NULL,NULL,NULL,NULL
+203497,"Rudy Gobert",Cholet,France,1992-06-26,29,85,258,7,Center,Active,1610612762,14.5,13.4,1.3,"Rudy Gobert",Guaranteed,27525281,Guaranteed,35344828,Guaranteed,38172414,Guaranteed,41000000
+1629060,"Rui Hachimura",Gonzaga,Japan,1998-02-08,23,80,230,1,Forward,Active,1610612764,13.4,5.8,1.5,"Rui Hachimura",Guaranteed,4692840,Guaranteed,4916160,"Team Option",6263188,"Qualifying Offer",8486620
+201566,"Russell Westbrook",UCLA,USA,1988-11-12,32,75,200,12,Guard,Active,1610612764,21.7,9.5,10.3,"Russell Westbrook",Guaranteed,41358814,Guaranteed,44211146,"Player Option",47063478,NULL,NULL
+1627853,"Ryan Arcidiacono",Villanova,USA,1994-03-26,27,75,195,3,Guard,Active,1610612741,3.2,1.6,1.2,"Ryan Arcidiacono",Guaranteed,3000000,"Team Option",3000000,NULL,NULL,NULL,NULL
+1629635,"Sekou Doumbouya",Limoges,France,2000-12-23,20,80,230,1,Forward,Active,1610612765,3.9,2.2,0.6,"Sekou Doumbouya",Guaranteed,3449400,Guaranteed,3613680,"Team Option",5539771,"Qualifying Offer",7744600
+1628400,"Semi Ojeleye","Southern Methodist",USA,1994-12-05,26,78,240,3,Forward,Active,1610612738,5.4,3.0,0.8,"Semi Ojeleye",Guaranteed,1752950,NULL,NULL,NULL,NULL,NULL,NULL
+201586,"Serge Ibaka","Ricoh Manresa","Republic of the Congo",1989-09-18,32,82,235,11,Forward,Active,1610612746,10.9,6.7,1.7,"Serge Ibaka",Guaranteed,9258000,"Player Option",9720900,NULL,NULL,NULL,NULL
+203552,"Seth Curry",Duke,USA,1990-08-23,31,74,185,6,Guard,Active,1610612755,12.9,2.2,2.9,"Seth Curry",Guaranteed,7834449,Guaranteed,8207518,Guaranteed,8496653,NULL,NULL
+1629003,"Shake Milton","Southern Methodist",USA,1996-09-26,25,77,205,2,Guard-Forward,Active,1610612755,13.8,2.3,3.1,"Shake Milton",Guaranteed,1701593,Guaranteed,1846738,"Team Option",1997718,NULL,NULL
+2733,"Shaun Livingston","No College",USA,1985-09-11,36,79,192,15,Guard,Inactive,1610612744,6.3,2.4,3.0,"Shaun Livingston","Not With Team",666667,"Not With Team",666667,NULL,NULL,NULL,NULL
+203524,"Solomon Hill",Arizona,USA,1991-03-18,30,78,226,7,Forward,Active,1610612737,4.2,2.3,0.9,"Solomon Hill",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+203915,"Spencer Dinwiddie",Colorado,USA,1993-04-06,28,77,215,6,Guard,Active,1610612751,6.7,4.3,3.0,"Spencer Dinwiddie",Guaranteed,11454048,"Player Option",12302496,NULL,NULL,NULL,NULL
+1626169,"Stanley Johnson",Arizona,USA,1996-05-29,25,78,242,5,Forward-Guard,Active,1610612761,2.9,2.2,1.2,"Stanley Johnson",Guaranteed,3804150,NULL,NULL,NULL,NULL,NULL,NULL
+201939,"Stephen Curry",Davidson,USA,1988-03-14,33,75,185,11,Guard,Active,1610612744,29.0,5.3,6.2,"Stephen Curry",Guaranteed,43006362,Guaranteed,45780966,NULL,NULL,NULL,NULL
+1628425,"Sterling Brown","Southern Methodist",USA,1995-02-10,26,77,219,3,Guard-Forward,Active,1610612745,7.6,4.5,1.6,"Sterling Brown",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+203500,"Steven Adams",Pittsburgh,"New Zealand",1993-07-20,28,83,265,7,Center,Active,1610612740,8.1,9.2,2.0,"Steven Adams",Guaranteed,29592695,Guaranteed,17073171,Guaranteed,17926829,NULL,NULL
+1629004,"Svi Mykhailiuk",Kansas,Ukraine,1997-06-10,24,79,205,2,Guard-Forward,Active,1610612760,7.0,2.1,1.6,"Svi Mykhailiuk",Guaranteed,1663861,"Qualifying Offer",2079826,NULL,NULL,NULL,NULL
+1629605,"Tacko Fall","Central Florida",Senegal,1995-12-10,25,89,311,1,Center,Active,1610612738,2.9,2.4,0.2,"Tacko Fall",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+201959,"Taj Gibson",USC,USA,1985-06-24,36,81,232,11,Forward,Active,1610612752,4.2,4.5,0.5,"Taj Gibson",Guaranteed,1442968,NULL,NULL,NULL,NULL,NULL,NULL
+1627752,"Taurean Prince",Baylor,USA,1994-03-22,27,79,218,4,Forward,Active,1610612739,8.3,3.6,1.7,"Taurean Prince",Guaranteed,12250000,Guaranteed,13000000,NULL,NULL,NULL,NULL
+1629611,"Terance Mann","Florida State",USA,1996-10-18,25,77,215,1,Guard-Forward,Active,1610612746,5.3,3.4,1.2,"Terance Mann",Guaranteed,1517981,Non-Guaranteed,1782621,"Team Option",1930681,NULL,NULL
+1629056,"Terence Davis",Mississippi,USA,1997-05-16,24,76,201,1,Guard,Active,1610612761,7.0,2.0,1.1,"Terence Davis",Guaranteed,1517981,"Qualifying Offer",1897476,NULL,NULL,NULL,NULL
+1628390,"Terrance Ferguson",Adelaide,USA,1998-05-17,23,78,190,3,Guard,Active,1610612755,0.2,0.1,0.2,"Terrance Ferguson","Not With Team",3944013,NULL,NULL,NULL,NULL,NULL,NULL
+203082,"Terrence Ross",Washington,USA,1991-02-05,30,78,206,8,Guard-Forward,Active,1610612753,16.0,3.5,2.3,"Terrence Ross",Guaranteed,13500000,Guaranteed,12500000,Guaranteed,11500000,NULL,NULL
+1626179,"Terry Rozier",Louisville,USA,1994-03-17,27,73,190,5,Guard,Active,1610612766,20.2,3.8,3.3,"Terry Rozier",Guaranteed,18900000,Guaranteed,17905263,NULL,NULL,NULL,NULL
+201152,"Thaddeus Young","Georgia Tech",USA,1988-06-21,33,80,235,13,Forward,Active,1610612741,12.2,6.5,4.4,"Thaddeus Young",Guaranteed,13545000,Non-Guaranteed,14190000,NULL,NULL,NULL,NULL
+203648,"Thanasis Antetokounmpo",Panathinaikos,Greece,1992-07-18,29,78,219,2,Forward,Active,1610612749,2.2,2.0,0.7,"Thanasis Antetokounmpo",Guaranteed,1701593,"Qualifying Offer",2126991,NULL,NULL,NULL,NULL
+1628418,"Thomas Bryant",Indiana,USA,1997-07-31,24,82,248,3,Center-Forward,Active,1610612764,14.3,6.1,1.5,"Thomas Bryant",Guaranteed,8333333,Guaranteed,8666667,NULL,NULL,NULL,NULL
+202699,"Tobias Harris",Tennessee,USA,1992-07-15,29,80,226,9,Forward,Active,1610612755,20.8,7.7,3.6,"Tobias Harris",Guaranteed,34358850,Guaranteed,35995950,Guaranteed,37633050,Guaranteed,39270150
+203107,"Tomas Satoransky","FC Barcelona","Czech Republic",1991-10-30,30,79,210,4,Guard,Active,1610612741,7.5,2.5,4.8,"Tomas Satoransky",Guaranteed,10000000,Non-Guaranteed,10000000,NULL,NULL,NULL,NULL
+1628396,"Tony Bradley","North Carolina",USA,1998-01-08,23,82,248,3,Center-Forward,Active,1610612755,4.8,4.9,0.9,"Tony Bradley",Guaranteed,3542060,"Qualifying Offer",5277669,NULL,NULL,NULL,NULL
+203503,"Tony Snell","New Mexico",USA,1991-11-10,29,78,213,7,Guard,Active,1610612737,5.6,2.3,1.4,"Tony Snell",Guaranteed,12178571,NULL,NULL,NULL,NULL,NULL,NULL
+1628470,"Torrey Craig","South Carolina Upstate",USA,1990-12-19,30,79,221,3,Forward,Active,1610612756,2.9,2.4,0.9,"Torrey Craig",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629027,"Trae Young",Oklahoma,USA,1998-09-19,23,73,180,2,Guard,Active,1610612737,25.7,4.1,9.4,"Trae Young",Guaranteed,6571800,Guaranteed,8326471,"Qualifying Offer",11040900,NULL,NULL
+1629682,"Tremont Waters","Louisiana State",USA,1998-01-10,23,70,175,1,Guard,Active,1610612738,3.0,0.7,2.7,"Tremont Waters",NULL,NULL,"Qualifying Offer",1669178,NULL,NULL,NULL,NULL
+2772,"Trevor Ariza",UCLA,USA,1985-06-30,36,80,215,16,Forward,Active,1610612748,4.0,3.3,1.0,"Trevor Ariza",Guaranteed,12800000,NULL,NULL,NULL,NULL,NULL,NULL
+203504,"Trey Burke",Michigan,USA,1992-11-12,28,72,185,7,Guard,Active,1610612742,7.0,0.9,1.5,"Trey Burke",Guaranteed,3000000,Guaranteed,3150000,"Player Option",3300000,NULL,NULL
+1626168,"Trey Lyles",Kentucky,Canada,1995-11-05,25,81,234,5,Forward,Active,1610612759,5.0,3.8,0.6,"Trey Lyles",Guaranteed,5500000,NULL,NULL,NULL,NULL,NULL,NULL
+202684,"Tristan Thompson",Texas,Canada,1991-03-13,30,81,254,9,Center-Forward,Active,1610612738,7.9,8.4,1.0,"Tristan Thompson",Guaranteed,9258000,Guaranteed,9720900,NULL,NULL,NULL,NULL
+1627786,"Troy Williams",Indiana,USA,1994-12-30,26,79,218,3,Forward,Inactive,1610612758,6.0,2.7,0.7,"Troy Williams","Not With Team",122741,"Not With Team",122741,"Not With Team",122741,NULL,NULL
+1629660,"Ty Jerome",Virginia,USA,1997-07-08,24,77,195,1,Guard-Forward,Active,1610612760,9.9,3.5,3.6,"Ty Jerome",Guaranteed,2303040,Guaranteed,2412840,"Team Option",4220057,"Qualifying Offer",6169723
+1629076,"Tyler Cook",Iowa,USA,1997-09-23,24,80,255,1,Forward,Active,1610612765,0.7,1.5,0.3,"Tyler Cook","Not With Team",99020,NULL,NULL,NULL,NULL,NULL,NULL
+1629639,"Tyler Herro",Kentucky,USA,2000-01-20,21,77,195,1,Guard,Active,1610612748,15.1,5.4,3.4,"Tyler Herro",Guaranteed,3822240,Guaranteed,4004280,"Team Option",5722116,"Qualifying Offer",7913686
+204020,"Tyler Johnson","Fresno State",USA,1992-05-07,29,75,186,6,Guard,Active,1610612751,5.2,1.8,0.9,"Tyler Johnson",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1626145,"Tyus Jones",Duke,USA,1996-05-10,25,72,196,5,Guard,Active,1610612763,7.5,2.2,4.3,"Tyus Jones",Guaranteed,8817143,Guaranteed,8376286,NULL,NULL,NULL,NULL
+2617,"Udonis Haslem",Florida,USA,1980-06-09,41,80,235,17,Forward,Active,1610612748,3.0,4.0,0.3,"Udonis Haslem",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+203506,"Victor Oladipo",Indiana,USA,1992-05-04,29,76,213,7,Guard,Active,1610612745,20.8,5.0,4.7,"Victor Oladipo",Guaranteed,21000000,NULL,NULL,NULL,NULL,NULL,NULL
+1629738,"Vincent Poirier",Baskonia,France,1993-10-17,28,84,235,1,Center-Forward,Active,1610612755,0.8,1.4,0.2,"Vincent Poirier","Not With Team",2619207,NULL,NULL,NULL,NULL,NULL,NULL
+1628427,"Vlatko Cancar","San Pablo Burgos",Slovenia,1997-04-10,24,80,236,1,Forward,Active,1610612743,1.4,1.2,0.3,"Vlatko Cancar",Guaranteed,1517981,Non-Guaranteed,1782621,"Qualifying Offer",2228276,NULL,NULL
+201961,"Wayne Ellington","North Carolina",USA,1987-11-29,33,76,207,11,Guard,Active,1610612765,10.6,1.8,1.4,"Wayne Ellington","Not With Team",2620564,NULL,NULL,NULL,NULL,NULL,NULL
+1629117,"Wenyen Gabriel",Kentucky,"South Sudan",1997-03-26,24,81,205,1,Forward,Active,1610612740,0.2,1.2,0.3,"Wenyen Gabriel",Guaranteed,1620564,Non-Guaranteed,1762796,NULL,NULL,NULL,NULL
+202083,"Wesley Matthews",Marquette,USA,1986-10-14,35,76,220,11,Guard,Active,1610612747,4.5,1.4,1.0,"Wesley Matthews",Guaranteed,3623000,NULL,NULL,NULL,NULL,NULL,NULL
+203115,"Will Barton",Memphis,USA,1991-01-06,30,78,181,8,Guard,Active,1610612743,13.0,4.1,3.2,"Will Barton",Guaranteed,13723214,"Player Option",14669642,NULL,NULL,NULL,NULL
+1626195,"Willy Hernangomez","Cajasol Sevilla",Spain,1994-05-27,27,83,250,4,Center-Forward,Active,1610612740,6.3,6.2,1.2,"Willy Hernangomez",Guaranteed,1620564,NULL,NULL,NULL,NULL,NULL,NULL
+1628380,"Zach Collins",Gonzaga,USA,1997-11-19,23,83,250,3,Forward-Center,Active,1610612757,7.0,6.3,1.5,"Zach Collins",Guaranteed,5406255,"Qualifying Offer",7363319,NULL,NULL,NULL,NULL
+203897,"Zach LaVine",UCLA,USA,1995-03-10,26,77,200,6,Guard-Forward,Active,1610612741,28.2,5.1,4.9,"Zach LaVine",Guaranteed,19500000,Guaranteed,19500000,NULL,NULL,NULL,NULL
+1629015,"Zhaire Smith","Texas Tech",USA,1999-06-04,22,75,205,2,Guard,Inactive,1610612755,3.7,1.2,0.9,"Zhaire Smith","Not With Team",1068200,"Not With Team",1068200,"Not With Team",1068200,NULL,NULL
+1629627,"Zion Williamson",Duke,USA,2000-07-06,21,79,284,1,Forward,Active,1610612740,25.7,7.0,3.4,"Zion Williamson",Guaranteed,10245480,Guaranteed,10733400,"Team Option",13534817,"Qualifying Offer",17595262
+1629597,"Zylan Cheatham","Arizona State",USA,1995-11-17,25,77,220,1,Forward,Inactive,1610612740,3.0,2.3,0.8,"Zylan Cheatham","Not With Team",1445697,NULL,NULL,NULL,NULL,NULL,NULL
