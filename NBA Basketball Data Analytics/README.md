@@ -9,11 +9,11 @@
 - Year 1946 - 2020
 
 Few examples of tables
-● Draft - Player position, height, weight of player
-● Game - Home team name, game date, match details, details of inactive players, game officials’ 
+- Draft - Player position, height, weight of player
+- Game - Home team name, game date, match details, details of inactive players, game officials’ 
 details
-● Player - Name, Birthdate, School, Country, no:of seasons played, year of first and last game, 
+- Player - Name, Birthdate, School, Country, no:of seasons played, year of first and last game, 
 Salary 
-● Team - Name, City & State, Headcoach, Active Years and Salary attributes
-● News - Information on Articles that mentioned the team/player, author, media, page number, 
+- Team - Name, City & State, Headcoach, Active Years and Salary attributes
+- News - Information on Articles that mentioned the team/player, author, media, page number, 
 rank, etc
