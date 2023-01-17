@@ -28,7 +28,7 @@ rank, etc
 
 ### Methodology
 
-![NBA Basketball](https://user-images.githubusercontent.com/50318272/213019762-9da1393e-3aa8-4f14-9c57-cc8858a2c75a.png)
+![NBA Basketball](https://user-images.githubusercontent.com/50318272/213020172-2ca1f384-7c1b-4fb1-b5ef-d9a3ccf4e468.png)
 
 ### Visualizations
 
@@ -46,12 +46,12 @@ Team Efficiency
 
 Game Statistics
 
-![1](https://user-images.githubusercontent.com/50318272/213016309-cab0e94a-3787-4972-bf97-9c67d54fd778.png)
+![2](https://user-images.githubusercontent.com/50318272/213020210-bb6112cb-1572-4d7c-9b0d-414716bbe945.png)
 
 ---
 Score Statistics
 
-![1](https://user-images.githubusercontent.com/50318272/213016364-846fe1a0-056f-4897-ac73-84be8fd9e0b3.png)
+![3](https://user-images.githubusercontent.com/50318272/213020238-74e963e5-70a8-4e40-a42f-ad309425f2c3.png)
 
 ---
 
