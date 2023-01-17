@@ -2,10 +2,12 @@
 - MySQL, MongoDB Compass, MongoDB Shell, Python (pymongo)
 - AWS, Clever Cloud, MongoDB Atlas
 - Tableau
+- Jmeter
 
 ## Table of Contents
 - Datasets
 - Methodology - Workflow
+- Performance Measurements
 - Data Visualizations
 - Key Insights
 
@@ -26,7 +28,7 @@ rank, etc
 
 ### Methodology
 
-![NBA Basketball](https://user-images.githubusercontent.com/50318272/213012775-0bee8d50-097a-428a-9a0a-6bc639723fbc.png)
+![NBA Basketball](https://user-images.githubusercontent.com/50318272/213019762-9da1393e-3aa8-4f14-9c57-cc8858a2c75a.png)
 
 ### Visualizations
 
@@ -62,6 +64,26 @@ Player Analysis
 
 ---
 
+### Performance Measurements
+
+- MySQL
+
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/50318272/213018972-2d9b9f7b-0b34-4ce3-89e0-d9ef09865aec.png">
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/50318272/213019061-fab1fc06-9ce7-49a1-afb6-3d735e4f57b6.png">
+
+
+---
+- MongoDB
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/50318272/213018638-5af3d002-59b2-47c8-96cc-b19aed7da23e.png">
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/50318272/213018744-1d9e7629-cd77-4a84-93b9-0adfff792d48.png">
+
+##### Result
+- MongoDB performed better compared to MySQL.
+
+---
 ### Key Inferences
 
 - The chance of winning as a home team is higher than as an opposite team.
