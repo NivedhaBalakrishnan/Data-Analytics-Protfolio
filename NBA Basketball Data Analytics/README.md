@@ -20,4 +20,4 @@ rank, etc
 
 ### Methodology
 
-![NBA Basketball](https://user-images.githubusercontent.com/50318272/213010238-97175b74-47a4-4604-97aa-c7553fea3b3d.png)
+![NBA Basketball](https://user-images.githubusercontent.com/50318272/213012775-0bee8d50-097a-428a-9a0a-6bc639723fbc.png)
