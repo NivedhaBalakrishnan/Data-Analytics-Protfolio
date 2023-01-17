@@ -6,7 +6,7 @@ Hi, I am Nivedha. Currently I am pursuing Master of Science in Data Analytics at
 
 
 ## Table of Contents
-- [NBA Basketball Analysis](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/NBA%20Basketball%20Data%20Analytics)
+- [NBA Basketball Analysis using MySQL and MongoDB](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/NBA%20Basketball%20Data%20Analytics)
 - [Time Series Forecast of Weather](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Time%20Series%20Forecast%20of%20Weather)
 - [Covid-19 Analysis using Tableau](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Covid-19%20Tableau)
 - [Survey Analysis using Power BI](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Survey%20Analysis%20Power%20BI)
