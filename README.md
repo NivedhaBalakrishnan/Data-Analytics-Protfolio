@@ -6,6 +6,7 @@ Hi, I am Nivedha. Currently I am pursuing Master of Science in Data Analytics at
 
 
 ## Table of Contents
+- [Time Series Forecast of Weather](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Time%20Series%20Forecast%20of%20Weather)
 - [Covid-19 Analysis using Tableau](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Covid-19%20Tableau)
 - [Survey Analysis using Power BI](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Survey%20Analysis%20Power%20BI)
 - [Sales Analysis and Visualization using Excel](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/Bike%20Sales%20Excel)
