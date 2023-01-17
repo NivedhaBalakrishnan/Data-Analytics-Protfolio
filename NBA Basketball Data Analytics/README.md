@@ -17,3 +17,7 @@ Salary
 - Team - Name, City & State, Headcoach, Active Years and Salary attributes
 - News - Information on Articles that mentioned the team/player, author, media, page number, 
 rank, etc
+
+### Methodology
+
+![NBA Basketball](https://user-images.githubusercontent.com/50318272/213010238-97175b74-47a4-4604-97aa-c7553fea3b3d.png)
