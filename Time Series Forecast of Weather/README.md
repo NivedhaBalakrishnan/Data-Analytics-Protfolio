@@ -15,14 +15,14 @@ Delhi Climate data for 4 months. The data consists of
 
 ### Visualizations
 
-![image](https://user-images.githubusercontent.com/50318272/212885977-d3166774-52bf-4181-949b-824090c5f6d6.png)
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/50318272/212887807-8c257171-4461-41a5-8eea-9f0bfdd42ea5.png">
 
 
 ### Steps
 - Stationary Test using Augmented Dickey-Fuller (ADF) Test
 
 Differences of weather indicators
-![image](https://user-images.githubusercontent.com/50318272/212886974-8091cfbc-bf55-47ac-8d5c-05e71d30539b.png)
+<img width="547" alt="image" src="https://user-images.githubusercontent.com/50318272/212887892-cdfa663a-a704-4413-a2c1-4e5cd730bda4.png">
 
 
 ### Time Forecast on Temperature
@@ -30,17 +30,17 @@ Differences of weather indicators
 #### ARIMA
 
 Model Plot
-![image](https://user-images.githubusercontent.com/50318272/212887117-5e38d509-0849-44be-8391-691221df176b.png)
+<img width="542" alt="image" src="https://user-images.githubusercontent.com/50318272/212887943-2442c8b7-196a-48d0-8557-d7d1a1ec606f.png">
 
 Forecast
-![image](https://user-images.githubusercontent.com/50318272/212887156-3ac55237-2e22-47e3-bb21-f35e12cf3013.png)
+<img width="673" alt="image" src="https://user-images.githubusercontent.com/50318272/212887991-76235851-a172-43ca-a67c-beb075f126d1.png">
 
 
 #### SARIMA
 
 Model Plot
-![image](https://user-images.githubusercontent.com/50318272/212887237-31fe65ed-2198-4f0e-8821-777859175bdd.png)
+<img width="542" alt="image" src="https://user-images.githubusercontent.com/50318272/212888040-7060fa19-e37b-4857-9187-fc8778997411.png">
 
 
 Forecast
-![image](https://user-images.githubusercontent.com/50318272/212887249-2570d928-2607-4119-bb76-aa4438b1fe70.png)
+<img width="673" alt="image" src="https://user-images.githubusercontent.com/50318272/212888117-3285012d-ae46-420b-96b6-736c7f11cada.png">
