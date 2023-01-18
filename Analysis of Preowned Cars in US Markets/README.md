@@ -24,10 +24,6 @@
 
 ### Methodology
 
-#### ER Diagram in SQL
-
-<img width="419" alt="image" src="https://user-images.githubusercontent.com/50318272/213065319-4b860883-2e78-4f51-9ab8-0860d9750dce.png">
-
 #### AWS Cloud Platform
 
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/50318272/213065423-dc8835bc-4e5e-4f47-a89a-4563a468d824.png">
