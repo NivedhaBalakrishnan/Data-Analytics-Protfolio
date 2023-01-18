@@ -43,16 +43,13 @@
 
 #### Tableau
 
-<img width="424" alt="image" src="https://user-images.githubusercontent.com/50318272/213065706-049ab943-f4d7-4860-9503-cfbf50888a49.png">
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/50318272/213081562-c58d5278-e60d-4c9b-9c02-93e5a0795c14.png">
 
+---
 
-<img width="311" alt="image" src="https://user-images.githubusercontent.com/50318272/213065748-17d264f3-65de-4d1b-8e20-52c9e605cbea.png">
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/50318272/213081628-e2137779-b1d4-4839-b4ab-8accbacca8b4.png">
 
-
-<img width="391" alt="image" src="https://user-images.githubusercontent.com/50318272/213065780-25e46568-b27e-48eb-99f3-660dc8872920.png">
-
-
-<img width="221" alt="image" src="https://user-images.githubusercontent.com/50318272/213065842-486e7b26-24ca-4f8f-86c1-5649c07fcdf4.png">
+---
 
 ### Web App Implementation
 
@@ -66,9 +63,8 @@
 The price of the car depends on the below main factors.
 - Miles covered 
 - Accident
+- Theft
 - Make name
-- Model
-- Location
-- Exterior Color
-- Number of days in the market
+- Listing Color
+- City
 - Fuel type
