@@ -61,3 +61,14 @@
 
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/50318272/213066125-440e3f8a-4244-4ccc-a31e-768c941ce2f7.png">
 
+### Inferences
+
+The price of the car depends on the below main factors.
+- Miles covered 
+- Accident
+- Make name
+- Model
+- Location
+- Exterior Color
+- Number of days in the market
+- Fuel type
