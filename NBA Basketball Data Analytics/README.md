@@ -56,18 +56,15 @@ Offensive Statistics
 
 ---
 
-Team Analysis
+Player Analysis
 
-<img width="446" alt="Team Analysis" src="https://user-images.githubusercontent.com/50318272/213016419-ce17b7ed-9d4c-4dfd-9eaa-bf08a1bd5613.png">
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/50318272/213062655-56c61cd5-6da4-437b-8cb1-595b6e8adb83.png">
 
 ---
 
-Player Analysis
+Team Analysis
 
-<img width="276" alt="image" src="https://user-images.githubusercontent.com/50318272/213016676-1b7efcbe-5955-4aed-97b5-f5351208db43.png">
-
-
-<img width="437" alt="image" src="https://user-images.githubusercontent.com/50318272/213016761-b3f78566-2dd4-4a9a-aa13-df2fb8d594f5.png">
+<img width="446" alt="Team Analysis" src="https://user-images.githubusercontent.com/50318272/213016419-ce17b7ed-9d4c-4dfd-9eaa-bf08a1bd5613.png">
 
 ---
 
