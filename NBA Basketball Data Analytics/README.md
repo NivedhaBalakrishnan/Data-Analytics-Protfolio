@@ -1,4 +1,4 @@
-### Materials Used
+### Tech Stack
 - MySQL, MongoDB Compass, MongoDB Shell, Python (pymongo)
 - AWS, Clever Cloud, MongoDB Atlas
 - Tableau
