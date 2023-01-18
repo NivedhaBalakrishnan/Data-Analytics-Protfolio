@@ -32,26 +32,33 @@ rank, etc
 
 ### Visualizations
 
+Game Analysis
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/50318272/213056770-d5e2c0ef-af25-4c02-8f5f-857a6df3a5cd.png">
+
+---
+
+Home Vs Away Team Statistics
+
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/50318272/213056882-fb4e9a97-23ed-4470-8ae0-8dc9506b40a5.png">
+
+---
+
+Defensive Statistics
+
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/50318272/213056952-6bf0b0ec-2345-44f9-a5a4-57e53cd1edf2.png">
+
+---
+
+Offensive Statistics
+
+<img width="455" alt="image" src="https://user-images.githubusercontent.com/50318272/213057008-22c0916c-9c5e-4635-a0cf-d238547878cc.png">
+
+---
+
 Team Analysis
 
 <img width="446" alt="Team Analysis" src="https://user-images.githubusercontent.com/50318272/213016419-ce17b7ed-9d4c-4dfd-9eaa-bf08a1bd5613.png">
-
----
-
-Team Efficiency
-
-![4](https://user-images.githubusercontent.com/50318272/213016493-c0e6912c-f4d9-40b3-9b97-66fb2167957d.png)
-
----
-
-Game Statistics
-
-![2](https://user-images.githubusercontent.com/50318272/213020210-bb6112cb-1572-4d7c-9b0d-414716bbe945.png)
-
----
-Score Statistics
-
-![3](https://user-images.githubusercontent.com/50318272/213020238-74e963e5-70a8-4e40-a42f-ad309425f2c3.png)
 
 ---
 
